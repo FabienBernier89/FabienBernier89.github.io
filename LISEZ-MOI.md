@@ -2,26 +2,22 @@
 
 Ce package contient **tout le nécessaire** pour que votre intégrateur (et son Claude Code) remplace le site Lexa actuel par la nouvelle version, sans perdre le référencement.
 
-## Contenu du package
+> Note : ceci est la **version dépôt public** (preview en ligne pour les équipes). Les coulisses (specs et plans de conception, scripts générateurs, sources `_build/`, doc de mise à jour du skill marketing) en ont été retirées ; elles restent dans le package complet remis séparément.
+
+## Contenu du dépôt
 
 ```
-lexa-package-integration/
+.
 ├── CLAUDE.md                          ← Règles du projet, lues automatiquement par Claude Code
 ├── LISEZ-MOI.md                       ← Ce fichier
 ├── 00-PROMPT-INTEGRATION-WORDPRESS.md ← LE cahier des charges complet (tâche maître, à lire en 1er)
 ├── CHARTE-ET-REGLES-LEXA.md           ← Identité de marque + règles contenu / SEO / accessibilité
-├── site-statique/                     ← LA SOURCE DE VÉRITÉ : tout le site, prêt à porter
-│   ├── index.html + 1 dossier par page (slug)/index.html   (88 pages HTML)
-│   ├── assets/   (lexa.css, lexa.js, lexa-demos.js, lexa-article.js, images,
-│   │              og-lexa.jpg, logo-lexa.png, ebook-lexa-guide.pdf, favicons…)
-│   ├── _partials/  (en-tête / nav / pied de page de référence)
-│   ├── _build/     (sources régénérables : e-book HTML, JSON de contenu, scripts de rendu)
-│   ├── gen_*.py    (générateurs : articles de blog, centre d'aide, plan du site)
-│   ├── sitemap.xml, robots.txt, site.webmanifest, 404.html, favicon.*
-│   └── INTEGRATION-WORDPRESS.md  (copie du cahier des charges, embarquée avec le site)
-└── docs-conception/                   ← Specs et plans de conception (contexte, facultatif)
-    ├── specs/   (document de design de la refonte)
-    └── plans/   (plans d'implémentation par vague)
+└── site-statique/                     ← LA SOURCE DE VÉRITÉ : tout le site, prêt à porter
+    ├── index.html + 1 dossier par page (slug)/index.html   (88 pages HTML)
+    ├── assets/   (lexa.css, lexa.js, lexa-demos.js, lexa-article.js, images,
+    │              og-lexa.jpg, logo-lexa.png, ebook-lexa-guide.pdf, favicons…)
+    ├── sitemap.xml, robots.txt, site.webmanifest, 404.html, favicon.*
+    └── INTEGRATION-WORDPRESS.md  (copie du cahier des charges, embarquée avec le site)
 ```
 
 ## Par où commencer (pour l'intégrateur)

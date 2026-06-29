@@ -1,0 +1,748 @@
+[
+ {
+  "intro": "<p><strong>Lexa</strong> est une solution de traduction juridique par intelligence artificielle, accessible en ligne sur <strong>portail.lexamt.fr</strong>. Conçue par les experts de l'agence Legal 230, elle traduit vos textes et documents juridiques dans plus de 40 langues, en respectant la terminologie du droit. Cette rubrique vous aide à comprendre ce qu'est Lexa, à qui elle s'adresse, ce qui la distingue des traducteurs généralistes, et quand préférer l'agence Legal 230. Pour toute question d'utilisation, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> ou cliquez sur l'icône <strong>Support</strong> dans le portail.</p>",
+  "items": [
+   {
+    "q": "Qu'est-ce que Lexa, concrètement ?",
+    "a": "<p>Lexa est une plateforme de <strong>traduction juridique par IA</strong> que vous utilisez directement depuis votre navigateur, sur <strong>portail.lexamt.fr</strong>. Vous vous connectez, puis vous travaillez en toute autonomie : pas de logiciel à installer.</p><p>Une fois connecté, vous retrouvez à gauche une barre latérale avec : <strong>Accueil</strong> (votre tableau de bord), <strong>Traduction</strong>, <strong>Lexiques</strong>, <strong>Historique</strong>, <strong>Personnaliser</strong>, et tout en bas une icône <strong>Support</strong>. Lexa s'appuie sur des moteurs spécialisés en droit, entraînés sur 60 millions de documents, avec une précision de 99%. Pour découvrir les capacités en détail, consultez la page <a href=\"/fonctionnalites/\">Fonctionnalités</a>.</p>"
+   },
+   {
+    "q": "À qui s'adresse Lexa ?",
+    "a": "<p>Lexa s'adresse à tous les professionnels qui manipulent des contenus juridiques et veulent gagner du temps sans sacrifier la précision :</p><ul><li>les <strong>cabinets d'avocats</strong> et juristes,</li><li>les <strong>directions juridiques</strong> d'entreprise,</li><li>les <strong>notaires, commissaires de justice</strong> et autres professions du droit,</li><li>les <strong>services conformité, RH ou contrats</strong> qui traitent des documents multilingues.</li></ul><p>Vous pouvez essayer Lexa gratuitement pendant <strong>15 jours, sans carte bancaire</strong>. Pour en savoir plus, voir <a href=\"/lexa-traduction-juridique-solution-pro-droit/\">Lexa, la solution pour les pros du droit</a>.</p>"
+   },
+   {
+    "q": "Comment commencer ma première traduction de texte ?",
+    "a": "<p>La traduction de texte s'affiche <strong>en temps réel</strong>, à mesure que vous écrivez : il n'y a pas de bouton « lancer ». Voici comment procéder :</p><ol><li>Dans la barre latérale, cliquez sur <strong>Traduction</strong>.</li><li>Restez sur l'onglet <strong>« Traduire un texte »</strong>.</li><li>Choisissez la <strong>langue source</strong> (ou laissez <strong>« Détecter la langue »</strong>) puis la <strong>langue cible</strong>.</li><li>En haut à droite, sélectionnez le <strong>domaine</strong> via le sélecteur (par défaut « Divers »).</li><li>Saisissez ou collez votre texte à gauche : la traduction apparaît automatiquement à droite.</li></ol><p>Besoin d'orienter le rendu ? Cliquez sur l'icône <strong>crayon</strong> pour ajouter des instructions. L'icône d'interversion permet d'échanger source et cible. Détails sur <a href=\"/lexa-texte-traduction-juridique-ia/\">la traduction de texte</a>.</p>"
+   },
+   {
+    "q": "Comment traduire un document complet ?",
+    "a": "<p>La traduction de document suit un assistant en <strong>4 étapes</strong>, avec un bouton <strong>« Suivant »</strong> entre chacune :</p><ol><li>Cliquez sur <strong>Traduction</strong>, puis sur l'onglet <strong>« Traduire un document »</strong>.</li><li><strong>Document</strong> : glissez-déposez votre fichier ou cliquez sur <strong>« Importer document(s) »</strong>.</li><li><strong>Langues</strong> : choisissez la langue source et la langue cible.</li><li><strong>Domaine et Glossaire</strong> : sélectionnez le domaine et, si besoin, un glossaire.</li><li><strong>Traduction</strong> : laissez Lexa traduire, puis téléchargez le résultat.</li></ol><p>Formats acceptés : <strong>.txt, .docx, .xlsx, .pptx, .pdf</strong>, pour une taille totale maximale de <strong>50 Mo</strong>. Plus d'infos sur <a href=\"/lexa-document-traduction-juridique/\">la traduction de documents</a>.</p>"
+   },
+   {
+    "q": "À quoi sert le sélecteur de domaine, et pourquoi « Divers » par défaut ?",
+    "a": "<p>Le <strong>sélecteur de domaine</strong> indique à Lexa le contexte juridique de votre contenu, pour qu'elle emploie la terminologie adaptée. Plus le domaine est précis, plus la traduction colle au vocabulaire métier.</p><p>Par défaut, le domaine est réglé sur <strong>« Divers »</strong> : un choix neutre, qui convient si votre texte n'entre pas dans une catégorie unique ou si vous mélangez les sujets. Pour un meilleur résultat, ajustez-le :</p><ol><li>Pour un <strong>texte</strong> : ouvrez le sélecteur de domaine en haut à droite de l'écran de traduction.</li><li>Pour un <strong>document</strong> : choisissez le domaine à l'étape <strong>« Domaine et Glossaire »</strong> de l'assistant.</li></ol>"
+   },
+   {
+    "q": "Quelles langues Lexa prend-elle en charge ?",
+    "a": "<p>Lexa traduit dans <strong>plus de 40 langues</strong>. Vous choisissez la langue source et la langue cible à chaque traduction, et vous pouvez même laisser <strong>« Détecter la langue »</strong> reconnaître automatiquement la langue source d'un texte.</p><p>Bon à savoir : la <strong>langue des langues</strong> traduites est indépendante de la <strong>langue de l'interface</strong> du portail. Vous pouvez basculer l'interface entre <strong>EN</strong> et <strong>FR</strong> via le sélecteur en haut de l'écran, ou depuis votre profil.</p>"
+   },
+   {
+    "q": "Qu'est-ce qui distingue Lexa d'un traducteur généraliste ?",
+    "a": "<p>Les outils généralistes traduisent « en général ». Lexa est conçue pour le <strong>droit</strong>, ce qui change tout sur des textes où chaque terme a un sens précis :</p><ul><li><strong>14 moteurs spécialisés</strong> et un entraînement sur <strong>60 millions de documents</strong>, pour une précision de <strong>99%</strong>.</li><li><strong>900+ lexiques officiels</strong> intégrés, plus vos propres glossaires pour imposer votre terminologie.</li><li><strong>Sécurité et confidentialité</strong> : chiffrement SSL/TLS et AES-256, hébergement en Europe, conformité RGPD, certifications ISO 27001, AICPA SOC et STAR Cloud Security Alliance. <strong>Aucune donnée client n'est utilisée pour l'entraînement.</strong></li></ul><p>Détails sur <a href=\"/securite-confidentialite-traduction-juridique/\">la sécurité et la confidentialité</a> et sur <a href=\"/glossaire-traduction-juridique/\">les glossaires juridiques</a>.</p>"
+   },
+   {
+    "q": "Quelle différence entre Lexa et l'agence Legal 230 ?",
+    "a": "<p>Les deux sont complémentaires, et vous choisissez selon votre besoin :</p><ul><li><strong>Lexa</strong> est une solution <strong>self-service</strong> : vous traduisez vous-même, instantanément, en autonomie sur le portail. Idéale pour le volume, la rapidité et le travail au quotidien.</li><li><strong>L'agence Legal 230</strong> intervient pour les <strong>traductions assermentées</strong>, les dossiers complexes ou à fort enjeu, avec relecture et certification par des experts humains.</li></ul><p>Et vous n'avez pas à choisir définitivement : depuis l'<strong>Historique</strong>, chaque traduction propose un bouton <strong>« Expert review »</strong> pour demander une relecture par un expert. Pour un projet sur mesure, contactez l'équipe via la page <a href=\"/contact/\">Contact</a>, par e-mail à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou au <strong>+33 1 84 80 21 20</strong>.</p>"
+   },
+   {
+    "q": "Comment retrouver mes traductions et suivre mon usage ?",
+    "a": "<p>Tout est centralisé dans le portail :</p><ol><li>Le <strong>tableau de bord</strong> (Accueil) affiche vos <strong>statistiques d'usage</strong> : caractères, mots et documents traduits, glossaires ajoutés, en pourcentage de votre quota.</li><li>La page <strong>Historique</strong> liste toutes vos traductions (document, langues, statut « Traduit », date de création).</li><li>Sur chaque ligne de l'historique, vous pouvez <strong>télécharger</strong>, <strong>supprimer</strong> ou demander une <strong>« Expert review »</strong>.</li></ol><p>Le tableau de bord propose aussi des <strong>Actions rapides</strong> : Nouvelle traduction, Gérer mon équipe, Ajouter un glossaire.</p>"
+   },
+   {
+    "q": "Combien de temps mes traductions sont-elles conservées ?",
+    "a": "<p>La durée de conservation est <strong>configurable par vous</strong>, via votre profil :</p><ol><li>Cliquez sur votre <strong>avatar</strong> en haut à droite, puis ouvrez <strong>« Détail du profil »</strong>.</li><li>Allez dans l'onglet <strong>« Sécurité »</strong>.</li><li>Réglez la <strong>« Période de rétention »</strong> : la durée pendant laquelle vos traductions sont conservées avant suppression automatique (par exemple 1 an).</li></ol><p>Ce même onglet permet de <strong>modifier votre mot de passe</strong>, de <strong>supprimer vos données</strong> et de vous <strong>déconnecter</strong>.</p>"
+   },
+   {
+    "q": "Existe-t-il d'autres façons d'utiliser Lexa que le portail ?",
+    "a": "<p>Oui. Au-delà du portail web, Lexa propose des compléments pour s'intégrer à vos outils :</p><ul><li><strong>Lexa Word</strong> : traduisez directement dans Microsoft Word, sans quitter votre document. Voir <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a>.</li><li><strong>Une API / connecteur</strong> pour relier Lexa à vos applications métier. Voir <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a>.</li><li><strong>Les outils d'écriture</strong> (page <strong>Personnaliser</strong>) pour retravailler un texte : modification du genre, style formel, anonymisation, résumé. Voir <a href=\"/lexa-writing-redaction-juridique/\">Lexa Writing</a>.</li></ul><p>Ces compléments se souscrivent côté produit : pour les tarifs et la mise en place, consultez la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a> ou écrivez à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a>.</p>"
+   }
+  ],
+  "key": "decouvrir-lexa",
+  "title": "Decouvrir Lexa"
+ },
+ {
+  "intro": "<p>Bienvenue sur Lexa, votre solution de traduction juridique par IA. Cette rubrique vous accompagne pas à pas pour vos premiers pas : créer votre essai gratuit, vous connecter sur <strong>portail.lexamt.fr</strong>, prendre en main le tableau de bord et lancer votre première traduction en temps réel. Quelques minutes suffisent pour être opérationnel.</p>",
+  "items": [
+   {
+    "q": "Comment démarrer mon essai gratuit de Lexa ?",
+    "a": "<p>L'essai Lexa est <strong>gratuit pendant 15 jours, sans carte bancaire</strong>. Vous testez la solution sans engagement.</p><ol><li>Rendez-vous sur la page de Lexa et démarrez votre essai gratuit.</li><li>Renseignez votre adresse e-mail professionnelle et créez votre mot de passe.</li><li>Validez : votre espace est créé et vous accédez directement au portail.</li></ol><p>Pendant ces 15 jours, vous profitez des traductions de texte et de documents, des glossaires et des outils d'écriture. Pour comparer les formules, consultez les <a href=\"/lexa-tarifs-traduction-juridique/\">tarifs</a>.</p>"
+   },
+   {
+    "q": "Comment me connecter à mon espace Lexa ?",
+    "a": "<ol><li>Ouvrez votre navigateur et allez sur <strong>portail.lexamt.fr</strong>.</li><li>Saisissez l'adresse e-mail et le mot de passe créés lors de votre inscription.</li><li>Validez pour accéder à votre tableau de bord.</li></ol><p>Une fois connecté, la <strong>barre latérale gauche</strong> regroupe vos espaces : <strong>Accueil</strong>, <strong>Traduction</strong>, <strong>Lexiques</strong>, <strong>Historique</strong>, <strong>Personnaliser</strong>, et l'icône <strong>Support</strong> en bas. En haut à droite : le sélecteur d'abonnement, la langue d'interface (EN | FR) et le menu profil (avatar).</p>"
+   },
+   {
+    "q": "Que puis-je voir sur le tableau de bord (page Accueil) ?",
+    "a": "<p>La page <strong>Accueil</strong> est votre point de départ. Elle réunit trois zones utiles.</p><ul><li><strong>Statistiques d'usage</strong> : caractères traduits, mots traduits, documents traduits et glossaires ajoutés, exprimés en pourcentage de votre quota.</li><li><strong>Actions rapides</strong> : <strong>Nouvelle traduction</strong>, <strong>Gérer mon équipe</strong> et <strong>Ajouter un glossaire</strong>, pour lancer une tâche en un clic.</li><li><strong>Traductions récentes</strong> : un accès direct à vos derniers travaux.</li></ul><p>C'est l'endroit idéal pour suivre votre consommation et reprendre une action là où vous l'aviez laissée.</p>"
+   },
+   {
+    "q": "Comment lancer ma première traduction de texte ?",
+    "a": "<p>La traduction de texte s'affiche <strong>en temps réel</strong> : il n'y a pas de bouton « lancer », le résultat apparaît à droite au fur et à mesure de votre saisie.</p><ol><li>Dans la barre latérale, cliquez sur <strong>Traduction</strong>, puis sur l'onglet <strong>Traduire un texte</strong>.</li><li>Choisissez la <strong>langue source</strong> (ou laissez « Détecter la langue ») et la <strong>langue cible</strong>.</li><li>En haut à droite, sélectionnez le <strong>domaine</strong> (par défaut « Divers ») pour adapter la terminologie juridique.</li><li>Saisissez ou collez votre texte dans la zone de gauche : la traduction se construit à droite, en direct.</li></ol><p>Pour aller plus loin, voir la <a href=\"/lexa-texte-traduction-juridique-ia/\">traduction de texte</a>.</p>"
+   },
+   {
+    "q": "Comment ajouter des instructions ou intervertir les langues pendant une traduction de texte ?",
+    "a": "<p>Deux options vous aident à affiner le résultat sur l'onglet <strong>Traduire un texte</strong>.</p><ol><li>Pour donner une consigne précise (ton, registre, préférence terminologique), cliquez sur l'<strong>icône crayon</strong> et ajoutez vos <strong>instructions</strong>.</li><li>Pour permuter rapidement la langue source et la langue cible, cliquez sur l'<strong>icône d'interversion</strong> entre les deux sélecteurs de langue.</li></ol><p>Lexa prend en charge <strong>plus de 40 langues</strong> et s'appuie sur <strong>14 moteurs spécialisés</strong> pour la précision juridique.</p>"
+   },
+   {
+    "q": "Comment traduire un document complet ?",
+    "a": "<p>La traduction de document suit un <strong>assistant en 4 étapes</strong>, avec un bouton <strong>Suivant</strong> entre chacune.</p><ol><li><strong>Document</strong> : glissez-déposez vos fichiers ou cliquez sur « Importer document(s) ». Formats acceptés : <strong>.txt, .docx, .xlsx, .pptx, .pdf</strong>, taille totale maximale <strong>50 Mo</strong>.</li><li><strong>Langues</strong> : choisissez la langue source et la langue cible.</li><li><strong>Domaine et Glossaire</strong> : sélectionnez le domaine et, si besoin, un glossaire.</li><li><strong>Traduction</strong> : lancez, puis téléchargez votre document traduit.</li></ol><p>Détails sur la page <a href=\"/lexa-document-traduction-juridique/\">traduction de document</a>.</p>"
+   },
+   {
+    "q": "Comment changer la langue de l'interface (EN / FR) ?",
+    "a": "<p>Vous pouvez basculer l'interface du portail entre l'anglais et le français de deux façons.</p><ol><li><strong>Rapidement</strong> : en haut de l'écran, utilisez le sélecteur de langue <strong>EN | FR</strong> et choisissez la langue souhaitée.</li><li><strong>Depuis votre profil</strong> : cliquez sur votre <strong>avatar</strong>, ouvrez <strong>Détail du profil</strong>, onglet <strong>Information</strong>, sélectionnez la <strong>langue de l'interface</strong>, puis cliquez sur <strong>Mettre à jour les informations</strong>.</li></ol><p>Le changement s'applique à l'ensemble du portail.</p>"
+   },
+   {
+    "q": "Comment ajouter un glossaire pour respecter ma terminologie ?",
+    "a": "<p>Les glossaires (page <strong>Lexiques</strong>) garantissent la cohérence de vos termes. Lexa intègre déjà <strong>plus de 900 lexiques officiels</strong>, et vous pouvez ajouter les vôtres.</p><ol><li>Dans la barre latérale, ouvrez <strong>Lexiques</strong>, puis cliquez sur <strong>Ajouter un glossaire</strong>.</li><li>Choisissez <strong>Ajouter un fichier</strong> (format <strong>.csv ou .xlsx</strong>, max <strong>5 Mo</strong>) ou <strong>Télécharger un modèle</strong> pour partir d'un gabarit prêt à l'emploi.</li><li>Respectez les règles : 1re ligne = codes de langue, 2 colonnes maximum, pas de virgules, pas de cellules vides, pas d'espaces en début ou fin, texte uniquement.</li><li>Cliquez sur <strong>Continuer</strong> pour enregistrer.</li></ol><p>Votre glossaire s'applique ensuite à l'étape <strong>Domaine et Glossaire</strong> d'une traduction de document.</p>"
+   },
+   {
+    "q": "Où retrouver mes traductions et les télécharger à nouveau ?",
+    "a": "<p>Toutes vos traductions sont conservées dans l'<strong>Historique</strong>.</p><ol><li>Cliquez sur <strong>Historique</strong> dans la barre latérale.</li><li>Repérez la ligne voulue grâce aux colonnes <strong>Document</strong>, <strong>Langues</strong>, <strong>Statut</strong> (« Traduit ») et <strong>Date de création</strong>.</li><li>Sur chaque ligne, utilisez les actions : <strong>télécharger</strong>, <strong>supprimer</strong>, ou <strong>Expert review</strong> pour demander une relecture par un expert.</li></ol><p>La durée de conservation est paramétrable dans votre profil (voir la question sur la sécurité du compte).</p>"
+   },
+   {
+    "q": "Comment utiliser les outils d'écriture (Personnaliser) sur un texte ?",
+    "a": "<p>L'espace <strong>Personnaliser</strong> applique des transformations rapides à un texte (jusqu'à <strong>2000 caractères</strong>).</p><ol><li>Ouvrez <strong>Personnaliser</strong> dans la barre latérale.</li><li>À gauche, choisissez une action : <strong>Modification du genre</strong>, <strong>Style - formel</strong>, <strong>Anonymisation - Noms</strong>, <strong>Anonymisation - Chiffres</strong> ou <strong>Résumé</strong>.</li><li>Collez votre texte, puis cliquez sur <strong>Appliquer</strong>.</li><li>Le résultat s'affiche à droite, prêt à être copié.</li></ol><p>En savoir plus sur la <a href=\"/lexa-writing-redaction-juridique/\">rédaction juridique assistée</a>.</p>"
+   },
+   {
+    "q": "Comment gérer la sécurité et la durée de conservation de mon compte ?",
+    "a": "<p>Vos paramètres de compte se trouvent dans <strong>Détail du profil</strong>, onglet <strong>Sécurité</strong>.</p><ol><li>Cliquez sur votre <strong>avatar</strong>, puis ouvrez <strong>Détail du profil</strong> et l'onglet <strong>Sécurité</strong>.</li><li>Utilisez <strong>Modifier le mot de passe</strong> pour mettre à jour vos identifiants.</li><li>Réglez la <strong>Période de rétention</strong> : la durée de conservation de vos traductions avant suppression automatique (par exemple 1 an), librement configurable.</li><li>Au besoin, accédez à <strong>Suppression</strong> de vos données, ou à <strong>Déconnexion</strong>.</li></ol><p>Vos données sont protégées par chiffrement <strong>SSL/TLS + AES-256</strong>, hébergées en <strong>Europe</strong> et conformes au <strong>RGPD</strong>. Détails sur la page <a href=\"/securite-confidentialite-traduction-juridique/\">sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Où trouver de l'aide si j'ai une question ?",
+    "a": "<p>Deux moyens simples pour être accompagné.</p><ol><li>Dans le portail, cliquez sur l'<strong>icône Support</strong> (casque) en bas de la barre latérale.</li><li>Ou écrivez à l'équipe support à <strong>support@lexamt.com</strong> pour toute question liée à l'utilisation.</li></ol><p>Pour une démo ou une question commerciale, contactez l'équipe commerciale à <strong>contact@lexamt.com</strong> ou au <strong>+33 1 84 80 21 20</strong>. Vous pouvez aussi consulter la page <a href=\"/contact/\">contact</a>.</p>"
+   }
+  ],
+  "key": "demarrer",
+  "title": "Demarrer avec Lexa"
+ },
+ {
+  "intro": "<p>Voici comment traduire un texte avec Lexa, pas à pas. L'onglet <strong>« Traduire un texte »</strong> traduit en temps réel, sans bouton à actionner : choisissez vos langues, un domaine du droit si besoin, et le résultat s'affiche au fil de la saisie. Ces réponses suivent exactement l'interface du portail.</p>",
+  "items": [
+   {
+    "q": "Comment traduire un texte dans Lexa ?",
+    "a": "<p>La traduction se fait en <strong>temps réel</strong>, il n'y a pas de bouton « lancer ».</p><ol><li>Dans la barre latérale, cliquez sur <strong>Traduction</strong>.</li><li>Restez sur l'onglet <strong>« Traduire un texte »</strong>.</li><li>Choisissez la <strong>langue source</strong> (ou laissez <strong>« Détecter la langue »</strong>).</li><li>Choisissez la <strong>langue cible</strong>.</li><li>Saisissez ou collez votre texte dans la zone de gauche.</li><li>La traduction s'affiche au fur et à mesure dans la zone de droite.</li></ol><p>Lexa couvre <strong>40+ langues</strong> avec une précision de <strong>99%</strong>. <a href=\"/lexa-texte-traduction-juridique-ia/\">En savoir plus sur la traduction de texte</a>.</p>"
+   },
+   {
+    "q": "Comment laisser Lexa détecter automatiquement la langue source ?",
+    "a": "<p>Inutile de connaître la langue de départ : Lexa peut la reconnaître seul.</p><ol><li>Ouvrez l'onglet <strong>« Traduire un texte »</strong>.</li><li>Dans le sélecteur de <strong>langue source</strong>, choisissez <strong>« Détecter la langue »</strong>.</li><li>Sélectionnez votre <strong>langue cible</strong>.</li><li>Collez votre texte : Lexa identifie la langue d'origine et traduit en temps réel.</li></ol></p>"
+   },
+   {
+    "q": "Comment choisir un domaine du droit pour une traduction plus précise ?",
+    "a": "<p>Le <strong>sélecteur de domaine</strong> oriente Lexa vers la terminologie juridique adaptée. Par défaut, il est réglé sur <strong>« Divers »</strong>.</p><ol><li>Dans l'onglet <strong>« Traduire un texte »</strong>, repérez le sélecteur de <strong>domaine</strong> en haut à droite.</li><li>Cliquez dessus pour ouvrir la liste.</li><li>Sélectionnez le domaine correspondant à votre texte (par exemple droit des sociétés, droit fiscal, droit social).</li><li>Le résultat se met à jour automatiquement avec la terminologie du domaine choisi.</li></ol><p>Lexa s'appuie sur <strong>14 moteurs</strong> spécialisés par domaine. <a href=\"/fonctionnalites/\">Découvrir les domaines couverts</a>.</p>"
+   },
+   {
+    "q": "Comment ajouter des instructions à ma traduction ?",
+    "a": "<p>Vous pouvez préciser une consigne (ton, registre, choix de termes) via l'icône <strong>crayon</strong>.</p><ol><li>Dans l'onglet <strong>« Traduire un texte »</strong>, cliquez sur l'icône <strong>crayon</strong>.</li><li>Saisissez votre instruction (par exemple : garder un registre formel, conserver certains termes en langue d'origine).</li><li>Validez : Lexa applique la consigne et actualise la traduction en temps réel.</li></ol></p>"
+   },
+   {
+    "q": "Comment intervertir la langue source et la langue cible ?",
+    "a": "<p>Une icône dédiée permet d'inverser le sens de traduction en un clic.</p><ol><li>Dans l'onglet <strong>« Traduire un texte »</strong>, repérez l'icône d'<strong>interversion</strong> entre les deux sélecteurs de langue.</li><li>Cliquez dessus : la langue source et la langue cible sont permutées.</li><li>Le texte et sa traduction sont échangés et le résultat se recalcule en temps réel.</li></ol></p>"
+   },
+   {
+    "q": "Comment copier le résultat de ma traduction ?",
+    "a": "<p>Le texte traduit se récupère directement depuis la zone de résultat.</p><ol><li>Une fois la traduction affichée, repérez l'icône de <strong>copie</strong> sur la zone de droite.</li><li>Cliquez dessus pour copier l'intégralité du résultat.</li><li>Collez le texte là où vous en avez besoin (e-mail, document, etc.).</li></ol></p>"
+   },
+   {
+    "q": "Comment effacer le texte et recommencer une traduction ?",
+    "a": "<p>Vous pouvez vider la zone de saisie pour repartir d'un texte vierge.</p><ol><li>Dans l'onglet <strong>« Traduire un texte »</strong>, cliquez sur l'option <strong>effacer</strong>.</li><li>La zone de texte source et le résultat sont vidés.</li><li>Saisissez votre nouveau texte : la traduction redémarre en temps réel.</li></ol></p>"
+   },
+   {
+    "q": "Pourquoi la traduction se met-elle à jour toute seule sans bouton ?",
+    "a": "<p>C'est volontaire : l'onglet <strong>« Traduire un texte »</strong> fonctionne en <strong>temps réel</strong>. Dès que vous saisissez ou modifiez le texte, changez de langue, choisissez un <strong>domaine</strong> ou ajoutez une instruction via le <strong>crayon</strong>, le résultat se recalcule automatiquement. Il n'y a donc aucun bouton « lancer » ni « traduire » à actionner.</p>"
+   },
+   {
+    "q": "Quelle est la différence entre « Traduire un texte » et « Traduire un document » ?",
+    "a": "<p>Les deux modes cohabitent dans la page <strong>Traduction</strong>, via deux onglets.</p><ul><li><strong>« Traduire un texte »</strong> : pour coller un passage et obtenir la traduction en temps réel, avec choix du domaine et instructions via le crayon.</li><li><strong>« Traduire un document »</strong> : un assistant en 4 étapes (Document, Langues, Domaine et Glossaire, Traduction) pour traduire un fichier complet et le télécharger.</li></ul><p>Pour un fichier (.txt, .docx, .xlsx, .pptx, .pdf), passez par l'onglet document. <a href=\"/lexa-document-traduction-juridique/\">Voir la traduction de documents</a>.</p>"
+   },
+   {
+    "q": "Mon texte traduit est-il confidentiel et sécurisé ?",
+    "a": "<p>Oui. Vos textes sont chiffrés (<strong>SSL/TLS</strong> en transit et <strong>AES-256</strong> au repos), hébergés en <strong>Europe</strong> et traités dans le respect du <strong>RGPD</strong>. <strong>Aucune donnée client n'est utilisée pour l'entraînement</strong> des modèles. Lexa est certifié <strong>ISO 27001</strong>, <strong>AICPA SOC</strong> et <strong>STAR Cloud Security Alliance</strong>. <a href=\"/securite-confidentialite-traduction-juridique/\">Détails sur la sécurité et la confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment configurer la durée de conservation de mes traductions ?",
+    "a": "<p>La <strong>période de rétention</strong> de vos données est réglable depuis votre profil.</p><ol><li>Ouvrez le menu profil, puis <strong>« Détail du profil »</strong>.</li><li>Allez dans l'onglet <strong>« Sécurité »</strong>.</li><li>Ajustez la <strong>« Période de rétention »</strong> (par exemple 1 an).</li><li>Vous pouvez aussi y <strong>supprimer vos données</strong> à tout moment.</li></ol></p>"
+   },
+   {
+    "q": "Le résultat ne s'affiche pas, que faire ?",
+    "a": "<p>Vérifiez d'abord les réglages de base.</p><ol><li>Assurez-vous d'avoir bien sélectionné une <strong>langue cible</strong> différente de la source.</li><li>Si la langue source est sur <strong>« Détecter la langue »</strong>, vérifiez que le texte saisi est suffisant pour la détection.</li><li>Rechargez la page si l'affichage reste figé, puis ressaisissez votre texte.</li></ol><p>Si le problème persiste, contactez l'aide à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   }
+  ],
+  "key": "traduire-un-texte",
+  "title": "Traduire un texte"
+ },
+ {
+  "intro": "<p>Bienvenue dans l'aide de l'onglet <strong>« Traduire un document »</strong>. Cet assistant vous guide en 4 étapes : <strong>Document</strong>, <strong>Langues</strong>, <strong>Domaine et Glossaire</strong>, puis <strong>Traduction</strong> et téléchargement. Suivez les fiches ci-dessous, étape par étape. Pour une démonstration complète, consultez la page <a href=\"/lexa-document-traduction-juridique/\">Lexa Documents</a>.</p>",
+  "items": [
+   {
+    "q": "Comment traduire mon premier document de A à Z ?",
+    "a": "<p>L'assistant se déroule en 4 étapes guidées. Voici le parcours complet :</p><ol><li>Dans la barre latérale, cliquez sur <strong>Traduction</strong>, puis ouvrez l'onglet <strong>« Traduire un document »</strong>.</li><li>Étape <strong>Document</strong> : glissez-déposez votre fichier, ou cliquez sur <strong>« Importer document(s) »</strong> pour le sélectionner.</li><li>Cliquez sur <strong>Suivant</strong>, puis à l'étape <strong>Langues</strong>, choisissez la langue source et la langue cible.</li><li>Cliquez sur <strong>Suivant</strong>, puis à l'étape <strong>Domaine et Glossaire</strong>, sélectionnez le domaine adapté et, si besoin, un glossaire.</li><li>Cliquez sur <strong>Suivant</strong> pour lancer l'étape <strong>Traduction</strong>, puis téléchargez votre document traduit.</li></ol><p>Vous pouvez tester gratuitement pendant <strong>15 jours, sans carte bancaire</strong>.</p>"
+   },
+   {
+    "q": "Quels formats de fichiers puis-je importer, et quelle taille maximale ?",
+    "a": "<p>L'étape <strong>Document</strong> accepte les formats suivants : <strong>.txt</strong>, <strong>.docx</strong>, <strong>.xlsx</strong>, <strong>.pptx</strong> et <strong>.pdf</strong>.</p><ul><li>La taille totale des fichiers importés ne doit pas dépasser <strong>50 Mo</strong>.</li><li>Vous pouvez déposer plusieurs documents en une seule fois.</li></ul><p>Pour un PDF scanné, la mise en page est préservée grâce à l'OCR. Découvrez les détails sur la page <a href=\"/lexa-document-traduction-juridique/\">Lexa Documents</a>.</p>"
+   },
+   {
+    "q": "Comment importer un fichier par glisser-déposer ?",
+    "a": "<ol><li>Ouvrez <strong>Traduction</strong> dans la barre latérale, puis l'onglet <strong>« Traduire un document »</strong>.</li><li>À l'étape <strong>Document</strong>, faites glisser votre fichier depuis votre ordinateur jusqu'à la zone d'import.</li><li>Relâchez le fichier dans la zone prévue ; il apparaît alors dans la liste des documents à traduire.</li><li>Cliquez sur <strong>Suivant</strong> pour passer au choix des langues.</li></ol><p>Si le glisser-déposer ne fonctionne pas, utilisez plutôt le bouton <strong>« Importer document(s) »</strong>.</p>"
+   },
+   {
+    "q": "Comment choisir la langue source et la langue cible ?",
+    "a": "<p>Le choix des langues se fait à la deuxième étape de l'assistant :</p><ol><li>Après avoir importé votre document, cliquez sur <strong>Suivant</strong> pour atteindre l'étape <strong>Langues</strong>.</li><li>Sélectionnez la <strong>langue source</strong> (la langue d'origine du document).</li><li>Sélectionnez la <strong>langue cible</strong> (la langue de traduction souhaitée).</li><li>Cliquez sur <strong>Suivant</strong> pour continuer.</li></ol><p>Lexa prend en charge <strong>plus de 40 langues</strong>.</p>"
+   },
+   {
+    "q": "Comment sélectionner un domaine juridique pour améliorer la précision ?",
+    "a": "<p>Le domaine oriente la traduction vers la terminologie métier adaptée :</p><ol><li>À l'étape <strong>Domaine et Glossaire</strong>, ouvrez le sélecteur de <strong>domaine</strong>.</li><li>Choisissez le domaine correspondant à votre document (par exemple un domaine juridique précis).</li><li>Cliquez sur <strong>Suivant</strong> pour lancer la traduction.</li></ol><p>Lexa s'appuie sur <strong>14 moteurs</strong> spécialisés et atteint jusqu'à <strong>99 % de précision</strong>. Pour comprendre la logique terminologique, voyez la page <a href=\"/glossaire-traduction-juridique/\">Glossaire juridique</a>.</p>"
+   },
+   {
+    "q": "Comment appliquer un glossaire (lexique) à ma traduction ?",
+    "a": "<p>Préparez d'abord votre glossaire, puis appliquez-le pendant l'assistant :</p><ol><li>Dans la barre latérale, ouvrez <strong>Lexiques</strong> (page <strong>Glossaires</strong>).</li><li>Cliquez sur <strong>« Ajouter un glossaire »</strong> et importez un fichier <strong>.csv</strong> ou <strong>.xlsx</strong> (max <strong>5 Mo</strong>) ; au besoin, utilisez <strong>« Télécharger un modèle »</strong>.</li><li>Revenez dans <strong>Traduction</strong> puis <strong>« Traduire un document »</strong>, et avancez jusqu'à l'étape <strong>Domaine et Glossaire</strong>.</li><li>Sélectionnez votre glossaire à cette étape, puis cliquez sur <strong>Suivant</strong>.</li></ol><p>Lexa met à disposition <strong>plus de 900 lexiques</strong> pour garantir la cohérence de vos termes.</p>"
+   },
+   {
+    "q": "Comment télécharger mon document une fois traduit ?",
+    "a": "<p>À la dernière étape, le téléchargement se fait directement :</p><ol><li>À l'étape <strong>Traduction</strong>, patientez le temps que le document soit traité.</li><li>Une fois la traduction terminée, cliquez sur le bouton de <strong>téléchargement</strong> pour récupérer votre fichier.</li></ol><p>Vous pourrez aussi retrouver ce document plus tard depuis l'onglet <strong>Historique</strong>.</p>"
+   },
+   {
+    "q": "Où retrouver une traduction déjà effectuée ?",
+    "a": "<p>Toutes vos traductions sont conservées dans l'historique :</p><ol><li>Dans la barre latérale, cliquez sur <strong>Historique</strong>.</li><li>Repérez la ligne correspondante (colonnes <strong>Document</strong>, <strong>Langues</strong>, <strong>Statut</strong> « Traduit » et <strong>Date</strong>).</li><li>Sur cette ligne, cliquez sur l'action <strong>télécharger</strong> pour récupérer le fichier, ou sur <strong>supprimer</strong> pour l'effacer.</li></ol><p>La durée de conservation dépend de votre <strong>Période de rétention</strong>, réglable dans votre profil.</p>"
+   },
+   {
+    "q": "Comment demander une relecture experte de ma traduction ?",
+    "a": "<p>La relecture humaine se demande depuis l'historique :</p><ol><li>Ouvrez <strong>Historique</strong> dans la barre latérale.</li><li>Trouvez la ligne du document concerné.</li><li>Cliquez sur l'action <strong>« Expert review »</strong> (relecture experte) pour cette traduction.</li></ol><p>C'est l'option idéale pour les documents juridiques sensibles à enjeu fort. Pour toute question, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Mes documents sont-ils protégés et confidentiels ?",
+    "a": "<p>Oui. La sécurité est au cœur de Lexa :</p><ul><li>Vos fichiers sont chiffrés en transit et au repos (<strong>SSL/TLS</strong> et <strong>AES-256</strong>).</li><li>L'hébergement est <strong>en Europe</strong> et conforme au <strong>RGPD</strong>.</li><li><strong>Aucune donnée client n'est utilisée pour l'entraînement</strong> des modèles.</li><li>Certifications <strong>ISO 27001</strong>, <strong>AICPA SOC</strong> et <strong>STAR Cloud Security Alliance</strong>.</li></ul><p>Vous pouvez aussi définir une <strong>Période de rétention</strong> dans votre profil. Détails sur la page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Mon document dépasse 50 Mo : que faire ?",
+    "a": "<p>La taille totale d'import est limitée à <strong>50 Mo</strong>. Si vous la dépassez :</p><ul><li>Scindez votre document en plusieurs fichiers plus légers, puis importez-les séparément.</li><li>Compressez les images contenues dans un PDF avant l'import.</li><li>Pour des volumes importants ou récurrents, contactez l'équipe à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou au <strong>+33 1 84 80 21 20</strong>.</li></ul><p>Les besoins à grande échelle relèvent souvent de l'offre <strong>Enterprise</strong> (sur mesure). Voyez la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a>.</p>"
+   },
+   {
+    "q": "Comment ajuster le style ou anonymiser un texte traduit ?",
+    "a": "<p>L'onglet <strong>Personnaliser</strong> permet de retravailler un texte :</p><ol><li>Dans la barre latérale, cliquez sur <strong>Personnaliser</strong>.</li><li>Choisissez l'action souhaitée : <strong>Modification du genre</strong>, <strong>Style - formel</strong>, <strong>Anonymisation - Noms</strong>, <strong>Anonymisation - Chiffres</strong> ou <strong>Résumé</strong>.</li><li>Collez votre texte (max <strong>2000 caractères</strong>) dans la zone prévue.</li><li>Cliquez sur <strong>Appliquer</strong> pour obtenir le résultat.</li></ol><p>Pour un long document, traduisez-le d'abord via l'assistant, puis affinez les passages clés ici.</p>"
+   }
+  ],
+  "key": "traduire-un-document",
+  "title": "Traduire un document"
+ },
+ {
+  "intro": "<p>L'outil <strong>« Personnaliser »</strong> regroupe des actions d'écriture qui transforment un texte en un clic : harmoniser le genre, passer au style formel, anonymiser des noms ou des chiffres, ou résumer. Le principe est toujours le même : ouvrez <strong>Personnaliser</strong> dans la barre latérale gauche du portail, choisissez une action à gauche, collez votre texte (<strong>2000 caractères maximum</strong>), cliquez sur <strong>« Appliquer »</strong>, puis lisez le résultat à droite. Voici comment procéder, action par action. Pour aller plus loin sur la rédaction juridique assistée, voir <a href=\"/lexa-writing-redaction-juridique/\">Lexa Writing</a>.</p>",
+  "items": [
+   {
+    "q": "Comment accéder à l'outil « Personnaliser » et l'utiliser ?",
+    "a": "<p>L'outil se trouve dans la barre latérale gauche du portail. Le fonctionnement est identique pour toutes les actions.</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Dans la barre latérale gauche, cliquez sur <strong>« Personnaliser »</strong>.</li><li>À gauche, choisissez une <strong>action</strong> parmi : <strong>« Modification du genre »</strong>, <strong>« Style - formel »</strong>, <strong>« Anonymisation - Noms »</strong>, <strong>« Anonymisation - Chiffres »</strong>, <strong>« Résumé »</strong>.</li><li><strong>Collez votre texte</strong> dans la zone de saisie (<strong>2000 caractères maximum</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li><li>Lisez le <strong>résultat à droite</strong>, puis copiez-le pour le réutiliser.</li></ol><p>Besoin d'aide ? L'icône <strong>Support</strong> est en bas de la barre latérale, ou écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Comment harmoniser le genre d'un texte avec « Modification du genre » ?",
+    "a": "<p>Cette action ajuste les accords et formulations liés au genre dans votre texte.</p><ol><li>Ouvrez <strong>« Personnaliser »</strong> dans la barre latérale gauche.</li><li>À gauche, sélectionnez l'action <strong>« Modification du genre »</strong>.</li><li><strong>Collez le texte</strong> à adapter (<strong>2000 caractères maximum</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li><li>Récupérez la version harmonisée affichée <strong>à droite</strong>.</li></ol>"
+   },
+   {
+    "q": "Comment rendre un texte plus formel avec « Style - formel » ?",
+    "a": "<p>Cette action réécrit votre texte dans un registre soutenu, adapté aux échanges professionnels et juridiques.</p><ol><li>Ouvrez <strong>« Personnaliser »</strong> dans la barre latérale gauche.</li><li>À gauche, sélectionnez l'action <strong>« Style - formel »</strong>.</li><li><strong>Collez le texte</strong> à reformuler (<strong>2000 caractères maximum</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li><li>Lisez la version formalisée <strong>à droite</strong> et copiez-la.</li></ol>"
+   },
+   {
+    "q": "Comment masquer les noms d'un texte avec « Anonymisation - Noms » ?",
+    "a": "<p>Cette action remplace les noms présents dans votre texte pour le rendre anonyme avant partage.</p><ol><li>Ouvrez <strong>« Personnaliser »</strong> dans la barre latérale gauche.</li><li>À gauche, sélectionnez l'action <strong>« Anonymisation - Noms »</strong>.</li><li><strong>Collez le texte</strong> contenant les noms à masquer (<strong>2000 caractères maximum</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li><li>Vérifiez le texte anonymisé <strong>à droite</strong> avant de le réutiliser.</li></ol><p>Pour en savoir plus sur la protection de vos données, voir <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment masquer les chiffres d'un texte avec « Anonymisation - Chiffres » ?",
+    "a": "<p>Cette action neutralise les données chiffrées (montants, références, dates, etc.) pour anonymiser votre texte.</p><ol><li>Ouvrez <strong>« Personnaliser »</strong> dans la barre latérale gauche.</li><li>À gauche, sélectionnez l'action <strong>« Anonymisation - Chiffres »</strong>.</li><li><strong>Collez le texte</strong> contenant les chiffres à masquer (<strong>2000 caractères maximum</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li><li>Contrôlez le résultat affiché <strong>à droite</strong> avant de le diffuser.</li></ol>"
+   },
+   {
+    "q": "Comment obtenir un résumé d'un texte avec « Résumé » ?",
+    "a": "<p>Cette action condense votre texte en une version courte qui conserve l'essentiel.</p><ol><li>Ouvrez <strong>« Personnaliser »</strong> dans la barre latérale gauche.</li><li>À gauche, sélectionnez l'action <strong>« Résumé »</strong>.</li><li><strong>Collez le texte</strong> à résumer (<strong>2000 caractères maximum</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li><li>Lisez le résumé affiché <strong>à droite</strong>.</li></ol>"
+   },
+   {
+    "q": "Quelle est la limite de caractères et comment traiter un texte plus long ?",
+    "a": "<p>La zone de saisie accepte <strong>2000 caractères maximum</strong> par traitement.</p><ol><li>Si votre texte dépasse cette limite, <strong>découpez-le</strong> en plusieurs parties de moins de 2000 caractères.</li><li>Traitez <strong>chaque partie séparément</strong> : collez, cliquez sur <strong>« Appliquer »</strong>, récupérez le résultat à droite.</li><li>Recommencez pour la partie suivante, puis <strong>reconstituez</strong> le texte final.</li></ol><p>Pour traiter des fichiers entiers (au-delà du simple texte), utilisez plutôt l'onglet <strong>« Traduire un document »</strong> de la page <strong>Traduction</strong> : voir <a href=\"/lexa-document-traduction-juridique/\">la traduction de documents</a>.</p>"
+   },
+   {
+    "q": "Puis-je enchaîner plusieurs actions sur le même texte ?",
+    "a": "<p>Oui. Les actions ne se combinent pas en une seule fois, mais vous pouvez les appliquer l'une après l'autre.</p><ol><li>Appliquez une première action (par exemple <strong>« Style - formel »</strong>) et récupérez le <strong>résultat à droite</strong>.</li><li><strong>Copiez ce résultat</strong>.</li><li>Sélectionnez une autre action à gauche (par exemple <strong>« Anonymisation - Noms »</strong>).</li><li><strong>Collez</strong> le texte déjà transformé dans la zone de saisie, en respectant les <strong>2000 caractères maximum</strong>.</li><li>Cliquez sur <strong>« Appliquer »</strong> pour obtenir la nouvelle version.</li></ol>"
+   },
+   {
+    "q": "Le résultat n'apparaît pas ou semble incomplet : que faire ?",
+    "a": "<p>Quelques vérifications simples résolvent la plupart des cas.</p><ul><li>Assurez-vous d'avoir bien <strong>sélectionné une action</strong> à gauche avant de cliquer sur <strong>« Appliquer »</strong>.</li><li>Vérifiez que votre texte ne dépasse pas <strong>2000 caractères</strong> : au-delà, découpez-le.</li><li>Confirmez que la zone de saisie <strong>contient bien du texte</strong> (collage effectif).</li><li>Cliquez de nouveau sur <strong>« Appliquer »</strong> ; le résultat se réaffiche à droite.</li></ul><p>Si le problème persiste, contactez l'équipe via l'icône <strong>Support</strong> du portail ou à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Mes textes collés dans « Personnaliser » sont-ils protégés ?",
+    "a": "<p>Oui. Vos contenus sont traités dans un environnement sécurisé.</p><ul><li>Échanges chiffrés en <strong>SSL/TLS</strong> et stockage en <strong>AES-256</strong>.</li><li><strong>Hébergement en Europe</strong>, conforme au <strong>RGPD</strong>.</li><li><strong>Aucune donnée client</strong> n'est utilisée pour entraîner les modèles.</li></ul><p>Détails complets sur la page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment passer l'interface en anglais ou revenir au français ?",
+    "a": "<p>Les libellés de l'outil « Personnaliser » s'affichent dans la langue de l'interface.</p><ol><li>En haut du portail, repérez le sélecteur de langue d'interface <strong>EN | FR</strong>.</li><li>Cliquez sur <strong>FR</strong> pour le français ou <strong>EN</strong> pour l'anglais.</li><li>L'interface, y compris la page <strong>« Personnaliser »</strong>, s'affiche dans la langue choisie.</li></ol>"
+   }
+  ],
+  "key": "lexa-writing",
+  "title": "Personnaliser"
+ },
+ {
+  "intro": "<p><strong>Lexa Word</strong> est le module qui apporte la traduction juridique de Lexa directement dans <strong>Microsoft Word</strong>, sur Windows comme sur Mac. Vous traduisez une clause, un paragraphe ou tout le document sans quitter votre traitement de texte, avec vos lexiques appliqués et la mise en forme conservée. Cette rubrique vous guide pas à pas : à quoi sert le module, comment l'installer comme complément Word, comment traduire et appliquer vos lexiques, et combien il coûte. Pour aller plus loin, consultez la page <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a> ou écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>",
+  "items": [
+   {
+    "q": "Qu'est-ce que Lexa Word et à quoi sert ce module ?",
+    "a": "<p><strong>Lexa Word</strong> est le complément Microsoft Word de Lexa : un plugin natif qui ajoute la traduction juridique de Lexa <strong>directement dans le ruban de Word</strong>. Vous restez dans votre document, sans copier-coller ni bascule vers un autre outil.</p><p>Concrètement, le module vous permet de :</p><ul><li>traduire une <strong>sélection</strong> (une clause, un paragraphe) ou <strong>tout le document</strong> en une seule action ;</li><li>conserver la <strong>mise en forme d'origine</strong> : styles, listes et titres restent en place ;</li><li>appliquer <strong>vos lexiques</strong> et les 900+ lexiques officiels (CJUE, OMPI, OIT) pour une terminologie cohérente ;</li><li>choisir le <strong>domaine du droit</strong> afin d'activer le moteur spécialisé adapté.</li></ul><p>Pour le détail, voir la page <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a>.</p>"
+   },
+   {
+    "q": "Lexa Word fonctionne-t-il sur Windows et sur Mac ?",
+    "a": "<p>Oui. Lexa Word est un <strong>plugin Microsoft Word natif</strong>, disponible aussi bien sur <strong>Windows</strong> que sur <strong>Mac</strong>. C'est le même complément, quel que soit votre poste de travail. Une fois installé, il ajoute la traduction juridique de Lexa directement dans le ruban de Word.</p>"
+   },
+   {
+    "q": "Comment installer Lexa Word comme complément dans Microsoft Word ?",
+    "a": "<p>Lexa Word s'installe comme un <strong>complément Office</strong> dans Microsoft Word, sur Windows comme sur Mac. La marche à suivre générale :</p><ol><li>Ouvrez <strong>Microsoft Word</strong> sur votre poste (Windows ou Mac).</li><li>Allez dans l'onglet <strong>Insertion</strong>, puis ouvrez <strong>Compléments</strong> (ou « Compléments Office »).</li><li>Recherchez le complément <strong>Lexa</strong> et ajoutez-le.</li><li>Une fois ajouté, le <strong>panneau Lexa</strong> apparaît dans le ruban de Word, prêt à l'emploi.</li><li>Connectez-vous avec vos <strong>identifiants Lexa</strong> pour activer la traduction.</li></ol><p>Selon la configuration de votre organisation, l'installation peut être gérée par votre service informatique. Pour la procédure exacte adaptée à votre poste, contactez <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>. La présentation complète du module reste disponible sur <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a>.</p>"
+   },
+   {
+    "q": "Comment traduire un passage ou tout le document directement dans Word ?",
+    "a": "<p>Tout se passe dans Word, sans quitter votre document :</p><ol><li><strong>Sélectionnez dans Word</strong> le passage à traduire (une clause, un paragraphe), ou laissez Lexa traiter le <strong>document entier</strong>.</li><li>Dans le <strong>panneau Lexa</strong> du ruban, choisissez la <strong>langue cible</strong> (par exemple « Anglais (UK) »).</li><li>Indiquez le <strong>domaine du droit</strong> concerné (par exemple « Droit des contrats »).</li><li>Vérifiez l'<strong>étendue</strong> (sélection ou document entier), puis cliquez sur <strong>Traduire dans le document</strong>.</li><li><strong>Relisez et transmettez</strong> : la traduction s'applique directement dans le fichier, vous restez dans Word pour ajuster si besoin.</li></ol><p>La mise en forme d'origine est conservée : styles, listes et titres restent en place.</p>"
+   },
+   {
+    "q": "Peut-on traduire seulement une partie du document sans toucher au reste ?",
+    "a": "<p>Oui. Vous pouvez traduire une <strong>sélection précise</strong> (une clause, un paragraphe) ou le <strong>document entier</strong>, au choix.</p><ol><li>Mettez en <strong>surbrillance</strong> dans Word uniquement le passage souhaité.</li><li>Dans le panneau Lexa, l'<strong>étendue</strong> indique alors « Sélection ».</li><li>Choisissez la langue cible et le domaine, puis lancez <strong>Traduire dans le document</strong>.</li></ol><p>Seul le passage sélectionné est traduit, et la <strong>mise en forme d'origine</strong> est conservée à l'identique.</p>"
+   },
+   {
+    "q": "Comment appliquer mes lexiques et choisir le bon domaine du droit dans Word ?",
+    "a": "<p>Lexa Word applique <strong>vos lexiques</strong> et les <strong>900+ lexiques officiels</strong> (CJUE, OMPI, OIT) directement dans le document. Le choix du domaine active le moteur spécialisé adapté.</p><ol><li>Dans le panneau Lexa du ruban, ouvrez le sélecteur <strong>Domaine du droit</strong>.</li><li>Choisissez la branche concernée (Sociétés, Contrats, Fiscal, Arbitrage, Propriété intellectuelle, etc.).</li><li>Lancez la traduction : la <strong>terminologie</strong> appliquée reste cohérente avec le reste de vos traductions Lexa.</li></ol><p>La gestion de vos lexiques s'effectue dans votre espace Lexa : voir le <a href=\"/glossaire-traduction-juridique/\">glossaire juridique</a> pour la terminologie par domaine.</p>"
+   },
+   {
+    "q": "La mise en forme de mon document est-elle conservée après traduction ?",
+    "a": "<p>Oui. Lexa Word préserve la <strong>mise en forme d'origine</strong> : les <strong>styles</strong>, les <strong>listes</strong> et les <strong>titres</strong> restent en place. Vous obtenez un texte traduit <strong>directement réutilisable</strong>, sans retouche après coup. C'est vrai aussi bien pour une sélection que pour l'ensemble du document.</p>"
+   },
+   {
+    "q": "Combien coûte Lexa Word ?",
+    "a": "<p>Lexa Word est proposé à <strong>4,90 € HT par utilisateur et par mois</strong>. C'est un module <strong>complémentaire</strong> : il s'ajoute à votre abonnement Lexa pour étendre la traduction juridique au sein de Microsoft Word.</p><p>Vous pouvez tester l'ensemble de la solution pendant <strong>15 jours, sans carte bancaire</strong>. Pour comparer les plans (Essentiel 6,90 €, Standard 23,90 €, Premium 44,90 € HT/mois, Enterprise sur mesure) et ajouter Lexa Word, consultez les <a href=\"/lexa-tarifs-traduction-juridique/\">tarifs Lexa</a>.</p>"
+   },
+   {
+    "q": "Mes documents restent-ils confidentiels avec Lexa Word ?",
+    "a": "<p>Oui. Comme l'ensemble de la solution Lexa, Lexa Word repose sur :</p><ul><li>un <strong>chiffrement AES-256</strong> et une transmission sécurisée SSL/TLS ;</li><li>un <strong>hébergement exclusivement en Europe</strong>, conforme au <strong>RGPD</strong> ;</li><li>une <strong>suppression des données sous 7 jours</strong> ;</li><li><strong>aucune utilisation</strong> de vos contenus pour l'entraînement des modèles.</li></ul><p>Le tout est certifié <strong>ISO 27001</strong> (avec AICPA SOC et STAR Cloud Security Alliance). NDA et SLA sur demande. Détails sur <a href=\"/securite-confidentialite-traduction-juridique/\">sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Quelle différence entre Lexa Word et les autres modules (Texte, Documents) ?",
+    "a": "<p>Chaque module correspond à un usage différent :</p><ul><li><strong>Lexa Word</strong> vit dans votre traitement de texte : vous traduisez sans quitter Word, idéal en pleine rédaction d'un contrat ou d'une note.</li><li><strong>Lexa Texte</strong> : pour coller ou saisir un passage juridique et lire sa traduction en <strong>temps réel</strong>, style préservé. Voir <a href=\"/lexa-texte-traduction-juridique-ia/\">Lexa Texte</a>.</li><li><strong>Lexa Documents</strong> : pour importer des fichiers complets (Word, PDF, Excel, PowerPoint et +30 formats) et traduire en gardant la <strong>mise en page intacte</strong>. Voir <a href=\"/lexa-document-traduction-juridique/\">Lexa Documents</a>.</li></ul><p>Les modules sont complémentaires : Word pour la rédaction au fil de l'eau, Texte et Documents pour les passages collés et les fichiers complets.</p>"
+   },
+   {
+    "q": "Comment obtenir de l'aide pour installer ou utiliser Lexa Word ?",
+    "a": "<p>Pour toute question d'installation ou d'utilisation du module Word, deux contacts :</p><ul><li><strong>Support technique</strong> : <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> pour l'installation du complément, la connexion ou un comportement inattendu.</li><li><strong>Commercial et démonstration</strong> : <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou <strong>+33 1 84 80 21 20</strong> pour ajouter Lexa Word à votre abonnement ou demander une démo.</li></ul><p>Vous pouvez aussi tester l'ensemble de la solution gratuitement pendant 15 jours, sans carte bancaire, depuis la page <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a>.</p>"
+   }
+  ],
+  "key": "lexa-word",
+  "title": "Lexa Word (module Microsoft Word)"
+ },
+ {
+  "intro": "<p>Lexa API permet aux équipes Legal Ops et DSI de brancher la traduction juridique de Lexa directement dans leurs propres outils (gestion juridique, gestion documentaire, portails, workflows internes), sans changer les habitudes des utilisateurs. Cette rubrique explique à quoi sert l'API, comment l'intégrer, le principe de clé d'API, les webhooks, les SLA et le support technique. Lexa API relève de l'offre Enterprise : pour la mettre en place, le point de départ reste un échange avec notre équipe via la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a>.</p>",
+  "items": [
+   {
+    "q": "À quoi sert Lexa API et à qui s'adresse-t-elle ?",
+    "a": "<p>Lexa API est une <strong>API REST</strong> qui rend la traduction juridique de Lexa appelable depuis vos propres applications. Au lieu de passer par une interface séparée, vos équipes traduisent là où elles travaillent déjà.</p><p>Elle s'adresse surtout aux profils <strong>Legal Ops et DSI</strong> qui veulent :</p><ul><li>intégrer la traduction à un <strong>DMS</strong> (gestion documentaire), un <strong>LMS</strong> (gestion juridique), un portail client ou un intranet ;</li><li>automatiser une étape de traduction dans un workflow existant (revue contractuelle, mise en conformité) ;</li><li>industrialiser le traitement de gros volumes.</li></ul><p>Vous accédez au même moteur que le reste de Lexa : 40+ langues, 14 moteurs spécialisés et 900+ lexiques officiels. Pour le détail, consultez la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a>.</p>"
+   },
+   {
+    "q": "Comment intégrer Lexa API à mon DMS ou à mon workflow ?",
+    "a": "<p>L'intégration suit une logique simple, en quatre étapes :</p><ol><li><strong>Appelez l'API</strong> : envoyez une requête avec le texte, la langue cible et le domaine du droit concerné.</li><li><strong>Lexa traduit</strong> : le moteur juridique spécialisé et les lexiques officiels s'appliquent au contenu soumis.</li><li><strong>Recevez l'événement</strong> : un webhook signé notifie votre système dès que la traduction est prête, score qualité inclus.</li><li><strong>Récupérez le résultat</strong> : votre application affiche ou stocke la traduction au bon endroit, sans copier-coller ni export manuel.</li></ol><p>Le cadrage de l'intégration (outils, volumes, niveaux de service) se fait avec notre équipe. Demandez une démo depuis la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a> ou écrivez à <strong>contact@lexamt.com</strong>.</p>"
+   },
+   {
+    "q": "Comment obtenir et utiliser une clé d'API ?",
+    "a": "<p>L'authentification se fait par <strong>clé d'API</strong> : chaque appel transmet votre clé pour identifier et sécuriser la requête.</p><ol><li>Échangez avec notre équipe via la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a> pour cadrer votre intégration (l'API relève du plan Enterprise).</li><li>Vous recevez vos <strong>clés d'API</strong> ainsi qu'un <strong>environnement de test</strong> pour valider vos appels avant la production.</li><li>Joignez la clé à chaque requête, dans l'en-tête d'autorisation prévu par la documentation.</li><li>Conservez la clé de façon sécurisée, côté serveur : elle ne doit jamais être exposée publiquement.</li></ol><p>Le détail des points d'accès et le format des réponses (JSON) sont fournis dans la documentation technique remise lors de l'intégration.</p>"
+   },
+   {
+    "q": "Comment fonctionnent les webhooks pour le traitement par lots ?",
+    "a": "<p>Les webhooks évitent d'interroger l'API en boucle. Le principe :</p><ol><li>Vous <strong>soumettez</strong> une ou plusieurs traductions via l'API.</li><li>Lexa traite chaque tâche de son côté, en arrière-plan.</li><li>Dès qu'un résultat est prêt, Lexa envoie un <strong>événement signé</strong> à l'URL de webhook que vous avez configurée (identifiant de la tâche, statut, score qualité).</li><li>Votre système réagit à l'événement et récupère la traduction correspondante.</li></ol><p>C'est la méthode recommandée pour le <strong>traitement par lots</strong> et l'orchestration de workflows sur de grands volumes. La signature de l'événement vous permet d'en vérifier l'authenticité côté réception.</p>"
+   },
+   {
+    "q": "Quels formats et quelles langues sont disponibles via l'API ?",
+    "a": "<p>Via l'API, vous accédez au même moteur juridique que le reste de Lexa :</p><ul><li><strong>40+ langues</strong> de traduction ;</li><li><strong>14 moteurs spécialisés</strong> par domaine du droit ;</li><li><strong>900+ lexiques officiels</strong> pour garantir la terminologie juridique.</li></ul><p>Pour la traduction de fichiers au fil de l'eau (Word, PDF, Excel, PowerPoint et autres formats, avec mise en page préservée), vous pouvez aussi compléter avec le module <a href=\"/lexa-document-traduction-juridique/\">Lexa Documents</a> dans le portail. L'API, elle, est pensée pour l'intégration programmatique à vos systèmes.</p>"
+   },
+   {
+    "q": "Quels SLA et quel niveau de disponibilité propose Lexa API ?",
+    "a": "<p>Lexa API est proposée avec des <strong>SLA garantis</strong> sur la disponibilité et les temps de réponse, ainsi qu'une <strong>haute disponibilité</strong> de l'infrastructure pour absorber vos volumes critiques.</p><p>Les niveaux d'engagement précis sont définis dans le cadre du <strong>plan Enterprise</strong>, en fonction de vos volumes et de vos contraintes métier. Un NDA est disponible sur demande. Pour cadrer vos besoins, partez de la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a> ou contactez <strong>contact@lexamt.com</strong>.</p>"
+   },
+   {
+    "q": "Les données envoyées via l'API restent-elles confidentielles ?",
+    "a": "<p>Oui. Les garanties de sécurité s'appliquent à chaque appel :</p><ul><li>chiffrement <strong>SSL/TLS</strong> en transit et <strong>AES-256</strong> au repos ;</li><li><strong>hébergement exclusivement en Europe</strong>, conforme au <strong>RGPD</strong> ;</li><li><strong>aucune donnée client utilisée pour l'entraînement</strong> ;</li><li>certifications <strong>ISO 27001</strong>, <strong>AICPA SOC</strong> et <strong>STAR Cloud Security Alliance</strong> ;</li><li>NDA et SLA disponibles sur demande.</li></ul><p>Le détail figure sur la page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment gérer la période de rétention des données traitées via l'API ?",
+    "a": "<p>La <strong>période de rétention</strong> détermine combien de temps vos contenus sont conservés avant suppression. Côté compte, elle se règle dans le portail :</p><ol><li>Ouvrez votre profil, puis <strong>Detail du profil</strong>.</li><li>Allez dans l'onglet <strong>Sécurité</strong>.</li><li>Ajustez la <strong>Période de rétention</strong> selon votre politique (par exemple 1 an).</li></ol><p>Pour une intégration Enterprise, la politique de rétention et de suppression peut être cadrée plus finement avec notre équipe lors de la mise en place de l'API. Écrivez à <strong>contact@lexamt.com</strong> pour en discuter.</p>"
+   },
+   {
+    "q": "Combien coûte Lexa API ?",
+    "a": "<p>Lexa API relève de l'<strong>offre Enterprise</strong>, avec une tarification <strong>sur mesure</strong> selon vos volumes, vos langues et vos niveaux de service. Le plan Enterprise est disponible <strong>à partir de 25 utilisateurs</strong>.</p><p>Pour obtenir une proposition adaptée, demandez une démo depuis la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a>, consultez les <a href=\"/lexa-tarifs-traduction-juridique/\">tarifs</a>, ou contactez l'équipe commerciale : <strong>contact@lexamt.com</strong> / <strong>+33 1 84 80 21 20</strong>.</p>"
+   },
+   {
+    "q": "Comment tester Lexa avant de lancer une intégration API ?",
+    "a": "<p>Avant d'engager un projet d'intégration, vous pouvez évaluer la qualité de Lexa en autonomie :</p><ol><li>Démarrez l'<strong>essai gratuit de 15 jours</strong>, sans carte bancaire.</li><li>Dans le portail, testez la <a href=\"/lexa-texte-traduction-juridique-ia/\">traduction de texte</a> en temps réel et la <a href=\"/lexa-document-traduction-juridique/\">traduction de documents</a> sur vos propres contenus.</li><li>Validez la terminologie attendue sur vos domaines du droit.</li></ol><p>Une fois la qualité confirmée, rapprochez-vous de notre équipe pour cadrer l'intégration API via la page <a href=\"/lexa-api-connecteur-juridiques/\">Lexa API</a>.</p>"
+   },
+   {
+    "q": "Quel support technique est fourni pour l'intégration ?",
+    "a": "<p>Lexa API s'accompagne d'un <strong>support technique dédié</strong>, de l'intégration à l'exploitation :</p><ul><li><strong>documentation</strong> des points d'accès et du format JSON ;</li><li><strong>clés d'API</strong> et <strong>environnement de test</strong> ;</li><li>un <strong>interlocuteur technique</strong> pour le suivi du projet.</li></ul><p>Pour les questions de mise en place et de cadrage, contactez l'équipe via <strong>contact@lexamt.com</strong> ou <strong>+33 1 84 80 21 20</strong>. Pour une question liée à votre compte ou au portail, le support produit reste joignable à <strong>support@lexamt.com</strong>.</p>"
+   },
+   {
+    "q": "Faut-il choisir entre Lexa API et les autres modules de Lexa ?",
+    "a": "<p>Non, les usages sont complémentaires :</p><ul><li><strong>Lexa API</strong> connecte la traduction à vos systèmes pour les flux automatisés et les gros volumes ;</li><li><a href=\"/lexa-texte-traduction-juridique-ia/\">Lexa Texte</a> et <a href=\"/lexa-document-traduction-juridique/\">Lexa Documents</a> servent au travail au fil de l'eau dans le portail ;</li><li><a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a> permet de traduire sans quitter Word ;</li><li><a href=\"/lexa-writing-redaction-juridique/\">Lexa Writing</a> aide à reformuler, anonymiser, changer de style ou résumer.</li></ul><p>Beaucoup d'organisations combinent l'API pour l'industrialisation et les modules du portail pour les besoins ponctuels. Vue d'ensemble sur la page <a href=\"/fonctionnalites/\">Toutes les fonctionnalités</a>.</p>"
+   }
+  ],
+  "key": "lexa-api",
+  "title": "Lexa API"
+ },
+ {
+  "intro": "<p>Un glossaire permet d'imposer vos traductions de référence pour certains termes : noms d'entités, formules juridiques propres à votre cabinet, terminologie d'un contrat. Lexa applique ce vocabulaire automatiquement lors de la traduction de vos documents, en plus des <strong>900+ lexiques officiels</strong> déjà intégrés à la solution. Voici comment gérer vos glossaires dans le portail, depuis le menu <strong>« Lexiques »</strong>.</p>",
+  "items": [
+   {
+    "q": "Où trouver mes glossaires dans le portail Lexa ?",
+    "a": "<p>Vos glossaires personnels sont regroupés sur la page <strong>« Glossaires »</strong>, accessible depuis le menu <strong>« Lexiques »</strong> de la barre latérale gauche.</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Dans la barre latérale gauche, cliquez sur <strong>« Lexiques »</strong>.</li><li>La page <strong>« Glossaires »</strong> affiche la liste de vos glossaires avec les colonnes <strong>Nom du fichier</strong>, <strong>Source</strong>, <strong>Target</strong> (langue cible) et <strong>Date de création</strong>.</li></ol><p>La colonne <strong>Actions</strong> vous permet de supprimer un glossaire dont vous n'avez plus besoin.</p>"
+   },
+   {
+    "q": "Comment ajouter un glossaire ?",
+    "a": "<p>Vous pouvez importer votre propre glossaire au format <strong>.csv</strong> ou <strong>.xlsx</strong> (taille maximale <strong>5 Mo</strong>).</p><ol><li>Ouvrez le menu <strong>« Lexiques »</strong> puis la page <strong>« Glossaires »</strong>.</li><li>Cliquez sur le bouton <strong>« Ajouter un glossaire »</strong>.</li><li>Choisissez <strong>« Ajouter un fichier »</strong> et sélectionnez votre fichier <strong>.csv</strong> ou <strong>.xlsx</strong>.</li><li>Vérifiez que votre fichier respecte les règles de format (voir la question dédiée plus bas).</li><li>Cliquez sur <strong>« Continuer »</strong> pour enregistrer le glossaire.</li></ol><p>Votre glossaire apparaît alors dans la liste, prêt à être appliqué à vos traductions de documents.</p>"
+   },
+   {
+    "q": "Je n'ai pas de glossaire prêt : comment partir d'un modèle ?",
+    "a": "<p>Lexa fournit un modèle déjà structuré, pour éviter les erreurs de format.</p><ol><li>Sur la page <strong>« Glossaires »</strong>, cliquez sur <strong>« Ajouter un glossaire »</strong>.</li><li>Cliquez sur <strong>« Télécharger un modèle »</strong>.</li><li>Ouvrez le fichier téléchargé, remplissez-le avec vos termes (une langue par colonne), puis enregistrez-le.</li><li>Revenez dans <strong>« Ajouter un glossaire »</strong>, choisissez <strong>« Ajouter un fichier »</strong> et importez votre fichier complété.</li><li>Cliquez sur <strong>« Continuer »</strong>.</li></ol><p>Le modèle vous garantit la bonne structure : codes de langue en première ligne et deux colonnes.</p>"
+   },
+   {
+    "q": "Quelles sont les règles de format à respecter pour un glossaire ?",
+    "a": "<p>Pour être accepté, votre fichier doit respecter quelques règles simples :</p><ul><li>La <strong>première ligne</strong> contient les <strong>codes de langue</strong> (par exemple FR et EN).</li><li><strong>Deux colonnes maximum</strong> : une langue source, une langue cible.</li><li><strong>Pas de virgules</strong> dans les cellules.</li><li><strong>Pas de cellules vides</strong> : chaque terme source doit avoir sa traduction.</li><li><strong>Pas d'espaces</strong> en début ou en fin de cellule.</li><li><strong>Texte uniquement</strong> (pas de formules, d'images ou de mise en forme).</li></ul><p>Le plus sûr est de partir du modèle proposé via <strong>« Télécharger un modèle »</strong>, puis d'y remplacer le contenu d'exemple par vos termes.</p>"
+   },
+   {
+    "q": "Comment appliquer un glossaire à la traduction d'un document ?",
+    "a": "<p>Un glossaire s'applique pendant l'assistant de traduction de document, à l'étape dédiée.</p><ol><li>Dans la barre latérale, cliquez sur <strong>« Traduction »</strong> puis ouvrez l'onglet <strong>« Traduire un document »</strong>.</li><li><strong>Étape 1 - Document</strong> : importez votre fichier (glisser-déposer ou <strong>« Importer document(s) »</strong>), puis cliquez sur <strong>« Suivant »</strong>.</li><li><strong>Étape 2 - Langues</strong> : choisissez la langue source et la langue cible, puis <strong>« Suivant »</strong>.</li><li><strong>Étape 3 - Domaine et Glossaire</strong> : sélectionnez le domaine, puis choisissez le glossaire à appliquer.</li><li><strong>Étape 4 - Traduction</strong> : lancez la traduction puis téléchargez le résultat.</li></ol><p>Lexa respectera alors vos traductions de référence pour les termes présents dans le glossaire.</p>"
+   },
+   {
+    "q": "Que sont les 900+ lexiques officiels intégrés ?",
+    "a": "<p>En plus de vos glossaires personnels, Lexa s'appuie sur plus de <strong>900 lexiques officiels</strong> de terminologie juridique, déjà intégrés à la solution. Vous n'avez rien à importer : ils enrichissent automatiquement la qualité de vos traductions.</p><p>Vos propres glossaires viennent en complément, pour les termes spécifiques à votre cabinet, à votre client ou à un dossier précis. Pour explorer la terminologie juridique de référence, consultez notre <a href=\"/glossaire-traduction-juridique/\">glossaire de la traduction juridique</a>.</p>"
+   },
+   {
+    "q": "Comment supprimer un glossaire ?",
+    "a": "<p>La suppression se fait directement depuis la liste de vos glossaires.</p><ol><li>Ouvrez le menu <strong>« Lexiques »</strong> puis la page <strong>« Glossaires »</strong>.</li><li>Repérez le glossaire concerné dans la liste (colonnes <strong>Nom du fichier</strong>, <strong>Source</strong>, <strong>Target</strong>, <strong>Date de création</strong>).</li><li>Dans la colonne <strong>Actions</strong>, cliquez sur l'icône de suppression de la ligne correspondante.</li></ol><p>Le glossaire ne sera plus proposé à l'étape <strong>« Domaine et Glossaire »</strong> de vos prochaines traductions.</p>"
+   },
+   {
+    "q": "Puis-je créer un glossaire dans une autre paire de langues ?",
+    "a": "<p>Oui. Chaque glossaire est défini par une paire de langues, indiquée par les <strong>codes de langue</strong> placés en première ligne de votre fichier, et reprise ensuite dans les colonnes <strong>Source</strong> et <strong>Target</strong> de la liste.</p><ol><li>Préparez un fichier dédié à la paire souhaitée (par exemple FR vers DE) en respectant les règles de format.</li><li>Importez-le via <strong>« Ajouter un glossaire »</strong> puis <strong>« Ajouter un fichier »</strong>.</li><li>Cliquez sur <strong>« Continuer »</strong>.</li></ol><p>Vous pouvez ainsi gérer plusieurs glossaires, un par paire de langues. Lexa prend en charge <strong>40+ langues</strong>. Le bon glossaire se sélectionne ensuite à l'étape <strong>« Domaine et Glossaire »</strong>, en cohérence avec les langues choisies pour le document.</p>"
+   },
+   {
+    "q": "Mon import de glossaire est refusé : que vérifier ?",
+    "a": "<p>Un refus vient presque toujours du format du fichier. Vérifiez les points suivants :</p><ul><li>Le fichier est bien au format <strong>.csv</strong> ou <strong>.xlsx</strong> et ne dépasse pas <strong>5 Mo</strong>.</li><li>La <strong>première ligne</strong> contient les codes de langue.</li><li>Il n'y a pas plus de <strong>deux colonnes</strong>.</li><li>Aucune <strong>virgule</strong>, aucune <strong>cellule vide</strong>, aucun <strong>espace</strong> en début ou en fin de cellule.</li><li>Le contenu est <strong>uniquement du texte</strong>.</li></ul><ol><li>Repartez du fichier obtenu via <strong>« Télécharger un modèle »</strong> si le doute persiste.</li><li>Recopiez-y vos termes, enregistrez, puis réimportez via <strong>« Ajouter un fichier »</strong>.</li></ol><p>Si le problème continue, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> ou cliquez sur l'icône <strong>Support</strong> dans la barre latérale.</p>"
+   },
+   {
+    "q": "Quelle différence entre un glossaire et le choix du domaine ?",
+    "a": "<p>Les deux agissent à la même étape mais jouent un rôle différent :</p><ul><li>Le <strong>domaine</strong> oriente le moteur de traduction vers un champ d'expertise (Lexa dispose de <strong>14 moteurs spécialisés</strong>) pour adapter le style et la terminologie générale.</li><li>Le <strong>glossaire</strong> impose vos traductions précises, terme par terme, en plus du domaine.</li></ul><p>À l'<strong>étape 3 - « Domaine et Glossaire »</strong> de l'assistant de traduction de document, vous pouvez combiner les deux : choisir un domaine adapté, puis appliquer un glossaire pour garantir la cohérence de vos termes clés. Pour en savoir plus sur la traduction de documents, consultez la <a href=\"/lexa-document-traduction-juridique/\">page dédiée</a>.</p>"
+   }
+  ],
+  "key": "lexiques-glossaires",
+  "title": "Lexiques et glossaires"
+ },
+ {
+  "intro": "<p>La page <strong>Historique</strong> rassemble toutes vos traductions au même endroit : documents, langues, statut et date. Depuis cette page, vous pouvez retrouver une traduction, la télécharger à nouveau, la supprimer ou demander une relecture par un expert. Voici comment gérer votre historique au quotidien et maîtriser la durée de conservation de vos données.</p>",
+  "items": [
+   {
+    "q": "Où trouver l'historique de mes traductions ?",
+    "a": "<p>L'historique est accessible en permanence depuis la barre latérale gauche du portail.</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Dans la barre latérale gauche, cliquez sur <strong>Historique</strong>.</li><li>La liste de toutes vos traductions s'affiche, avec les colonnes <strong>Document</strong>, <strong>Langues</strong>, <strong>Statut</strong> (« Traduit ») et <strong>Date de création</strong>.</li></ol><p>Vos dernières traductions apparaissent aussi sur la page <strong>Accueil</strong> (tableau de bord), dans la section <strong>Traductions récentes</strong>, pour un accès rapide.</p>"
+   },
+   {
+    "q": "Comment retélécharger une traduction depuis l'historique ?",
+    "a": "<p>Chaque ligne de l'historique dispose de ses propres actions, dont le téléchargement.</p><ol><li>Ouvrez la page <strong>Historique</strong> dans la barre latérale gauche.</li><li>Repérez la traduction voulue grâce aux colonnes <strong>Document</strong>, <strong>Langues</strong> et <strong>Date de création</strong>.</li><li>Sur la ligne correspondante, cliquez sur l'action <strong>télécharger</strong>.</li><li>Le fichier traduit est récupéré sur votre appareil.</li></ol><p>Vous pouvez ainsi récupérer un document sans relancer une nouvelle traduction, tant qu'il figure dans votre historique.</p>"
+   },
+   {
+    "q": "Comment supprimer une traduction de mon historique ?",
+    "a": "<p>La suppression se fait ligne par ligne, directement depuis la liste.</p><ol><li>Allez dans <strong>Historique</strong> via la barre latérale gauche.</li><li>Identifiez la traduction à retirer dans la liste.</li><li>Sur sa ligne, cliquez sur l'action <strong>supprimer</strong>.</li></ol><p>La suppression est définitive : pensez à <strong>télécharger</strong> le fichier au préalable si vous souhaitez en garder une copie. Pour effacer l'ensemble de vos données, rendez-vous dans <strong>Profil → Sécurité → Suppression</strong>.</p>"
+   },
+   {
+    "q": "Que signifie le statut « Traduit » dans l'historique ?",
+    "a": "<p>La colonne <strong>Statut</strong> indique où en est chaque traduction. La mention <strong>« Traduit »</strong> signifie que le traitement est terminé et que le fichier est prêt.</p><ul><li>Vous pouvez alors le <strong>télécharger</strong>, le <strong>supprimer</strong> ou lancer une <strong>Expert review</strong>.</li></ul><p>L'historique vous offre ainsi une vue claire et centralisée de toutes vos traductions, classées par <strong>Date de création</strong>.</p>"
+   },
+   {
+    "q": "Comment demander une relecture par un expert (Expert review) ?",
+    "a": "<p>La relecture humaine se demande directement depuis l'historique, sur la traduction concernée.</p><ol><li>Ouvrez la page <strong>Historique</strong>.</li><li>Trouvez la traduction que vous souhaitez faire relire.</li><li>Sur sa ligne, cliquez sur <strong>Expert review</strong>.</li></ol><p>Un expert juridique prend alors le relais pour vérifier la traduction. C'est utile pour les documents sensibles ou à fort enjeu. Pour toute question sur le déroulé d'une <strong>Expert review</strong>, contactez <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> ou l'icône <strong>Support</strong> du portail.</p>"
+   },
+   {
+    "q": "Pendant combien de temps mes traductions sont-elles conservées ?",
+    "a": "<p>La durée de conservation est définie par une <strong>Période de rétention</strong> que vous contrôlez vous-même. Au-delà de ce délai, vos traductions sont supprimées automatiquement.</p><ul><li>Cette durée est <strong>paramétrable</strong> (par exemple 1 an).</li><li>Tant que la période n'est pas écoulée, vos traductions restent disponibles dans l'<strong>Historique</strong>.</li></ul><p>Vous gardez ainsi la main sur la durée de vie de vos données, en cohérence avec notre <a href=\"/securite-confidentialite-traduction-juridique/\">politique de sécurité et de confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment modifier la durée de conservation (Période de rétention) ?",
+    "a": "<p>Le réglage se trouve dans votre profil, dans l'onglet <strong>Sécurité</strong>.</p><ol><li>Cliquez sur le <strong>menu profil</strong> (avatar) en haut à droite, puis ouvrez <strong>Détail du profil</strong>.</li><li>Sélectionnez l'onglet <strong>Sécurité</strong>.</li><li>Repérez le réglage <strong>Période de rétention</strong>.</li><li>Choisissez la durée de conservation souhaitée avant suppression automatique.</li></ol><p>Le nouveau délai s'applique à vos traductions stockées dans l'<strong>Historique</strong>.</p>"
+   },
+   {
+    "q": "Comment retrouver rapidement une traduction précise ?",
+    "a": "<p>L'historique est organisé pour repérer une traduction d'un coup d'œil.</p><ol><li>Ouvrez la page <strong>Historique</strong>.</li><li>Appuyez-vous sur les colonnes <strong>Document</strong> (nom du fichier), <strong>Langues</strong> (paire source-cible) et <strong>Date de création</strong>.</li><li>Parcourez la liste, classée par date, pour localiser l'entrée recherchée.</li></ol><p>Pour les traductions les plus récentes, le plus rapide reste la section <strong>Traductions récentes</strong> de la page <strong>Accueil</strong>.</p>"
+   },
+   {
+    "q": "Une traduction a disparu de mon historique, pourquoi ?",
+    "a": "<p>Deux explications sont possibles.</p><ul><li>La traduction a été <strong>supprimée</strong> manuellement depuis sa ligne dans l'<strong>Historique</strong>.</li><li>La <strong>Période de rétention</strong> définie dans <strong>Profil → Sécurité</strong> est écoulée : la traduction a alors été supprimée automatiquement.</li></ul><p>Pour conserver durablement vos documents, pensez à les <strong>télécharger</strong>, et ajustez votre <strong>Période de rétention</strong> si besoin. En cas de doute, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Mes traductions stockées dans l'historique sont-elles sécurisées ?",
+    "a": "<p>Oui. Vos traductions sont protégées par un chiffrement <strong>SSL/TLS</strong> en transit et <strong>AES-256</strong> au repos, avec un hébergement en <strong>Europe</strong> conforme au <strong>RGPD</strong>.</p><ul><li><strong>Aucune donnée client</strong> n'est utilisée pour l'entraînement de nos modèles.</li><li>Vous maîtrisez la durée de conservation via la <strong>Période de rétention</strong> et pouvez supprimer vos données à tout moment.</li></ul><p>Pour en savoir plus, consultez notre page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment supprimer définitivement l'ensemble de mes données ?",
+    "a": "<p>La suppression globale se gère depuis l'onglet <strong>Sécurité</strong> de votre profil.</p><ol><li>Ouvrez le <strong>menu profil</strong> (avatar) en haut à droite, puis <strong>Détail du profil</strong>.</li><li>Allez dans l'onglet <strong>Sécurité</strong>.</li><li>Utilisez l'option <strong>Suppression</strong> pour effacer vos données.</li></ol><p>Pour ne retirer qu'une traduction à la fois, préférez l'action <strong>supprimer</strong> sur la ligne concernée dans l'<strong>Historique</strong>. Besoin d'aide ? Contactez <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Puis-je relancer une nouvelle traduction depuis l'historique ?",
+    "a": "<p>L'historique sert à consulter, télécharger, supprimer ou faire relire vos traductions existantes. Pour produire une nouvelle traduction, passez par la page dédiée.</p><ol><li>Dans la barre latérale gauche, cliquez sur <strong>Traduction</strong>.</li><li>Choisissez l'onglet <strong>Traduire un texte</strong> ou <strong>Traduire un document</strong>.</li><li>Suivez les étapes (langues, domaine, glossaire), puis récupérez le résultat.</li></ol><p>La nouvelle traduction viendra ensuite s'ajouter automatiquement à votre <strong>Historique</strong>. Pour en savoir plus, voir <a href=\"/lexa-document-traduction-juridique/\">la traduction de documents</a> et <a href=\"/lexa-texte-traduction-juridique-ia/\">la traduction de texte</a>.</p>"
+   }
+  ],
+  "key": "historique",
+  "title": "Historique et gestion des traductions"
+ },
+ {
+  "intro": "<p>Lexa atteint <strong>99% de précision juridique</strong> grâce à 14 moteurs spécialisés, 900+ lexiques officiels et 60 millions de documents d'entraînement. Cette rubrique vous explique comment <strong>comprendre</strong> et <strong>améliorer</strong> la qualité de vos traductions (domaine, instructions, glossaires), puis comment <strong>demander une relecture experte</strong> via le bouton « Expert review » de l'Historique quand l'enjeu l'exige. Chaque procédure suit pas à pas les écrans réels de votre espace Lexa.</p>",
+  "items": [
+   {
+    "q": "Que signifie la précision de 99% de Lexa ?",
+    "a": "<p>Lexa est entraînée <strong>exclusivement sur le droit</strong> : 60 millions de documents juridiques, 14 moteurs spécialisés par domaine et 900+ lexiques officiels intégrés. Résultat : une <strong>précision juridique de 99%</strong> sur la terminologie, là où un traducteur généraliste se trompe sur les termes sensibles.</p><p>Concrètement, Lexa restitue le bon vocabulaire de votre branche du droit et préserve la mise en forme de vos documents. Pour les enjeux forts (acte officiel, pièce engageant votre responsabilité), vous pouvez compléter par une <strong>relecture experte</strong> via « Expert review ».</p><p>Pour aller plus loin : <a href=\"/fonctionnalites/\">nos fonctionnalités</a>.</p>"
+   },
+   {
+    "q": "Comment améliorer la qualité d'une traduction de texte ?",
+    "a": "<p>Trois réglages font la différence dès l'écran <strong>Traduction</strong> :</p><ol><li>Ouvrez <strong>Traduction</strong> dans la barre latérale, puis l'onglet <strong>« Traduire un texte »</strong>.</li><li>Choisissez la <strong>langue source</strong> (ou « Détecter la langue ») et la <strong>langue cible</strong>.</li><li>En haut à droite, sélectionnez le <strong>domaine</strong> juridique adapté (par défaut « Divers ») pour affiner la terminologie.</li><li>Cliquez sur l'<strong>icône crayon</strong> pour ajouter des <strong>instructions personnalisées</strong> (ton, registre, préférences de traduction).</li><li>Saisissez ou collez votre texte : la traduction s'affiche <strong>en temps réel</strong>, sans bouton à actionner.</li></ol><p>Plus d'astuces : <a href=\"/lexa-texte-traduction-juridique-ia/\">Lexa Texte</a>.</p>"
+   },
+   {
+    "q": "Pourquoi sélectionner le bon domaine juridique ?",
+    "a": "<p>Le <strong>domaine</strong> oriente Lexa vers le moteur spécialisé et la terminologie de votre branche du droit : un même mot ne se traduit pas pareil en droit fiscal, en propriété intellectuelle ou en arbitrage international.</p><p>Pour le régler :</p><ol><li>Dans <strong>Traduction</strong> > onglet <strong>« Traduire un texte »</strong>, ouvrez le <strong>sélecteur de domaine</strong> en haut à droite (« Divers » par défaut).</li><li>Choisissez le domaine le plus proche de votre document.</li></ol><p>Pour un document, ce choix se fait à l'étape <strong>« Domaine et Glossaire »</strong> de l'assistant.</p>"
+   },
+   {
+    "q": "Comment ajouter un glossaire pour garantir la cohérence terminologique ?",
+    "a": "<p>Un glossaire impose vos termes officiels et assure la <strong>cohérence entre tous vos documents</strong>. Pour le créer :</p><ol><li>Ouvrez <strong>Lexiques</strong> dans la barre latérale (page « Glossaires »).</li><li>Cliquez sur <strong>« Ajouter un glossaire »</strong>.</li><li>Importez un fichier <strong>.csv ou .xlsx (max 5 Mo)</strong>, ou utilisez d'abord <strong>« Télécharger un modèle »</strong> pour partir d'un format propre.</li></ol><p>Le glossaire s'applique ensuite à l'étape <strong>« Domaine et Glossaire »</strong> de la traduction de document. Voir aussi notre <a href=\"/glossaire-traduction-juridique/\">guide des glossaires</a>.</p>"
+   },
+   {
+    "q": "Comment appliquer un glossaire à la traduction d'un document ?",
+    "a": "<p>Une fois votre glossaire ajouté dans <strong>Lexiques</strong>, sélectionnez-le pendant l'assistant document :</p><ol><li>Ouvrez <strong>Traduction</strong> > onglet <strong>« Traduire un document »</strong>.</li><li>Étape 1 <strong>Document</strong> : glissez-déposez votre fichier ou cliquez sur <strong>« Importer document(s) »</strong> (.txt, .docx, .xlsx, .pptx, .pdf ; 50 Mo au total).</li><li>Cliquez sur <strong>« Suivant »</strong>, puis à l'étape 2 <strong>Langues</strong>, choisissez source et cible.</li><li>À l'étape 3 <strong>« Domaine et Glossaire »</strong>, sélectionnez le <strong>domaine</strong> puis le <strong>glossaire</strong> voulu.</li><li>Continuez jusqu'à l'étape 4 <strong>Traduction</strong>, puis <strong>téléchargez</strong> le résultat.</li></ol><p>Détails : <a href=\"/lexa-document-traduction-juridique/\">Lexa Documents</a>.</p>"
+   },
+   {
+    "q": "Comment ajouter des instructions personnalisées à une traduction ?",
+    "a": "<p>Les instructions précisent vos attentes (registre formel, conservation de certains termes, conventions de votre cabinet) et améliorent la pertinence du rendu.</p><ol><li>Ouvrez <strong>Traduction</strong> > onglet <strong>« Traduire un texte »</strong>.</li><li>Cliquez sur l'<strong>icône crayon</strong>.</li><li>Saisissez vos <strong>instructions</strong>, puis validez.</li></ol><p>La traduction se met à jour <strong>en temps réel</strong> en tenant compte de vos consignes.</p>"
+   },
+   {
+    "q": "Qu'est-ce que la relecture experte « Expert review » ?",
+    "a": "<p>« Expert review » vous permet de <strong>demander une relecture humaine</strong> d'une traduction par un expert, directement depuis votre <strong>Historique</strong>. C'est le complément idéal quand l'enjeu est élevé : un document important, une pièce engageant votre responsabilité, un contexte sensible.</p><p>Le principe Lexa : <strong>l'IA pour traduire au quotidien en autonomie</strong>, la <strong>relecture experte</strong> quand vous voulez une validation humaine. Pour les traductions <strong>officielles ou assermentées</strong>, l'agence Legal 230 prend le relais.</p>"
+   },
+   {
+    "q": "Comment demander une relecture experte (Expert review) ?",
+    "a": "<p>La demande se fait en quelques clics depuis l'Historique :</p><ol><li>Ouvrez <strong>Historique</strong> dans la barre latérale.</li><li>Repérez la ligne de la traduction concernée (Document, Langues, Statut <strong>« Traduit »</strong>, Date).</li><li>Sur cette ligne, cliquez sur <strong>« Expert review »</strong>.</li><li>Suivez les indications affichées pour confirmer votre demande de relecture.</li></ol><p>Astuce : vérifiez d'abord que le <strong>domaine</strong> et le <strong>glossaire</strong> étaient bien sélectionnés, pour soumettre la meilleure version possible à l'expert.</p>"
+   },
+   {
+    "q": "Quand privilégier la relecture experte plutôt que la traduction seule ?",
+    "a": "<p>La traduction Lexa (99% de précision) suffit pour <strong>le travail courant</strong> : comprendre, rédiger, échanger en interne. Demandez une <strong>relecture experte</strong> dans ces cas :</p><ul><li>Document à <strong>fort enjeu</strong> ou engageant votre responsabilité.</li><li>Pièce destinée à un <strong>tiers</strong> (client, partie adverse, juridiction).</li><li>Terminologie <strong>très technique</strong> ou langue rare.</li><li>Besoin d'une <strong>validation humaine</strong> avant signature ou dépôt.</li></ul><p>Pour une traduction <strong>certifiée ou assermentée</strong>, orientez-vous vers Legal 230 via <a href=\"/contact/\">notre contact</a>.</p>"
+   },
+   {
+    "q": "Lexa remplace-t-elle un traducteur humain ?",
+    "a": "<p>Non, et c'est volontaire. Lexa est conçue pour <strong>traduire au quotidien en toute autonomie</strong>, avec une précision juridique de 99%. Pour les cas sensibles, vous gardez la main : la <strong>relecture experte</strong> (« Expert review ») ajoute une validation humaine, et les besoins <strong>certifiés ou assermentés</strong> relèvent de l'agence Legal 230.</p><p>L'idée : <strong>l'IA pour la vitesse et la cohérence</strong>, l'humain pour la garantie sur les enjeux forts.</p>"
+   },
+   {
+    "q": "Mes données sont-elles protégées pendant la traduction et la relecture ?",
+    "a": "<p>Oui. Vos documents sont chiffrés de bout en bout (<strong>SSL/TLS + AES-256</strong>), hébergés <strong>en Europe</strong> et traités dans le respect du <strong>RGPD</strong>. Lexa est certifiée <strong>ISO 27001</strong>, <strong>AICPA SOC</strong> et <strong>STAR Cloud Security Alliance</strong>. <strong>Aucune donnée client</strong> n'est utilisée pour entraîner les modèles.</p><p>Vous pouvez régler votre <strong>« Période de rétention »</strong> dans Profil > onglet <strong>« Sécurité »</strong>. Plus d'informations : <a href=\"/securite-confidentialite-traduction-juridique/\">sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment ajuster un texte traduit (style, anonymisation, résumé) ?",
+    "a": "<p>La page <strong>Personnaliser</strong> affine un texte sans repasser par la traduction :</p><ol><li>Ouvrez <strong>Personnaliser</strong> dans la barre latérale.</li><li>Choisissez l'action voulue : <strong>« Style - formel »</strong>, <strong>« Modification du genre »</strong>, <strong>« Anonymisation - Noms »</strong>, <strong>« Anonymisation - Chiffres »</strong> ou <strong>« Résumé »</strong>.</li><li>Collez votre texte (<strong>max 2000 caractères</strong>).</li><li>Cliquez sur <strong>« Appliquer »</strong>.</li></ol><p>Pour traduire directement dans Word, découvrez <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a>. Une question ? Écrivez à <strong>support@lexamt.com</strong>.</p>"
+   }
+  ],
+  "key": "qualite-relecture",
+  "title": "Qualite et relecture"
+ },
+ {
+  "intro": "<p>Chez Lexa, la confidentialité de vos documents juridiques est une priorité absolue. Vos données sont chiffrées, hébergées en Europe et ne servent jamais à entraîner nos modèles. Cette rubrique vous explique nos garanties de sécurité et vous guide pas à pas pour régler la durée de conservation de vos traductions et supprimer vos données depuis votre profil sur <strong>portail.lexamt.fr</strong>.</p>",
+  "items": [
+   {
+    "q": "Comment Lexa protège-t-il mes documents confidentiels ?",
+    "a": "<p>Vos données sont protégées à chaque étape par des standards de sécurité élevés :</p><ul><li><strong>Chiffrement en transit</strong> : toutes les communications passent par un canal <strong>SSL/TLS</strong>.</li><li><strong>Chiffrement au repos</strong> : vos contenus sont stockés en <strong>AES-256</strong>.</li><li><strong>Hébergement en Europe</strong> : nos serveurs sont situés dans l'Union européenne, en conformité avec le <strong>RGPD</strong>.</li><li><strong>Aucun entraînement sur vos données</strong> : vos documents et traductions ne sont jamais utilisés pour entraîner nos moteurs.</li></ul><p>Pour le détail complet de notre politique, consultez la page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Quelles certifications de sécurité Lexa détient-il ?",
+    "a": "<p>Lexa s'appuie sur des certifications reconnues pour garantir un haut niveau de sécurité et de gouvernance des données :</p><ul><li><strong>ISO 27001</strong> : management de la sécurité de l'information.</li><li><strong>AICPA SOC</strong> : contrôle des systèmes et de la protection des données.</li><li><strong>STAR Cloud Security Alliance</strong> : sécurité des services cloud.</li></ul><p>Ces certifications complètent notre chiffrement SSL/TLS et AES-256, notre hébergement européen et notre conformité RGPD. Plus de détails sur la page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Mes traductions sont-elles utilisées pour entraîner l'IA de Lexa ?",
+    "a": "<p>Non. <strong>Aucune donnée client n'est utilisée pour l'entraînement</strong> de nos modèles. Vos textes, vos documents et vos glossaires restent strictement les vôtres.</p><p>Nos 14 moteurs spécialisés ont été entraînés sur un corpus dédié de 60 millions de documents, indépendant de vos contenus. Vos traductions sont conservées uniquement le temps que vous définissez, puis supprimées automatiquement (voir la question sur la période de rétention).</p>"
+   },
+   {
+    "q": "Comment régler la durée de conservation de mes traductions (période de rétention) ?",
+    "a": "<p>La <strong>période de rétention</strong> fixe la durée pendant laquelle vos traductions sont conservées avant leur suppression automatique. Vous la réglez vous-même :</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>En haut à droite, cliquez sur votre <strong>avatar</strong> pour ouvrir le menu profil, puis sur <strong>Détail du profil</strong>.</li><li>Ouvrez l'onglet <strong>Sécurité</strong>.</li><li>Dans la section <strong>Période de rétention</strong>, choisissez la durée de conservation souhaitée (par exemple 1 an).</li><li>Enregistrez votre choix : passé ce délai, vos traductions sont supprimées automatiquement.</li></ol><p>Vous gardez ainsi la maîtrise complète de la durée de vie de vos données dans l'application.</p>"
+   },
+   {
+    "q": "Comment supprimer mes données depuis mon compte ?",
+    "a": "<p>Vous pouvez demander la suppression de vos données directement depuis votre profil :</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Cliquez sur votre <strong>avatar</strong> en haut à droite, puis sur <strong>Détail du profil</strong>.</li><li>Ouvrez l'onglet <strong>Sécurité</strong>.</li><li>Dans la section <strong>Suppression</strong>, lancez la suppression de vos données.</li><li>Confirmez l'opération lorsque l'application vous le demande.</li></ol><p>Pour toute demande spécifique liée au RGPD (droit d'accès, de rectification ou d'effacement), vous pouvez aussi écrire à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Comment supprimer une seule traduction depuis l'historique ?",
+    "a": "<p>Si vous souhaitez retirer une traduction précise sans attendre la fin de la période de rétention :</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Dans la barre latérale gauche, cliquez sur <strong>Historique</strong>.</li><li>Repérez la traduction concernée dans la liste (colonnes Document, Langues, Statut, Date de création).</li><li>Sur la ligne correspondante, cliquez sur l'action <strong>supprimer</strong>.</li></ol><p>Cette action retire la traduction de votre historique. Pour effacer l'ensemble de vos données, utilisez plutôt la section <strong>Suppression</strong> de l'onglet Sécurité de votre profil.</p>"
+   },
+   {
+    "q": "Comment modifier mon mot de passe pour sécuriser mon compte ?",
+    "a": "<p>Pour changer votre mot de passe :</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Cliquez sur votre <strong>avatar</strong> en haut à droite, puis sur <strong>Détail du profil</strong>.</li><li>Ouvrez l'onglet <strong>Sécurité</strong>.</li><li>Dans la section <strong>Modifier le mot de passe</strong>, saisissez votre nouveau mot de passe et validez.</li></ol><p>Pensez à choisir un mot de passe robuste et unique. C'est aussi dans cet onglet Sécurité que vous trouverez l'option <strong>Déconnexion</strong>.</p>"
+   },
+   {
+    "q": "Qui peut accéder à mes traductions au sein de mon organisation ?",
+    "a": "<p>L'accès est encadré par un système de rôles. Chaque membre de votre équipe dispose de son propre compte :</p><ul><li><strong>Utilisateur</strong> : accède à ses propres traductions et fonctionnalités.</li><li><strong>Administrateur</strong> : gère l'équipe et les paramètres associés.</li></ul><p>Pour consulter ou ajuster les accès :</p><ol><li>Sur le tableau de bord, cliquez sur l'action rapide <strong>Gérer mon équipe</strong> (page <strong>Mon Équipe</strong>).</li><li>Dans le tableau, repérez la personne concernée (colonnes Utilisateur, Licence, Usage, Rôle, Actions).</li><li>Cliquez sur <strong>Modifier l'utilisateur</strong> pour changer son e-mail ou cocher <strong>Administrateur</strong>.</li></ol>"
+   },
+   {
+    "q": "L'anonymisation des données est-elle possible avant traduction ?",
+    "a": "<p>Oui. Les outils d'écriture vous permettent de masquer des informations sensibles avant de partager ou d'archiver un texte :</p><ol><li>Dans la barre latérale gauche, cliquez sur <strong>Personnaliser</strong>.</li><li>À gauche, choisissez l'action <strong>Anonymisation - Noms</strong> ou <strong>Anonymisation - Chiffres</strong>.</li><li>Collez votre texte (jusqu'à 2000 caractères).</li><li>Cliquez sur <strong>Appliquer</strong> : le résultat anonymisé s'affiche à droite.</li></ol><p>C'est un complément pratique à nos garanties de chiffrement et de confidentialité pour les contenus particulièrement sensibles.</p>"
+   },
+   {
+    "q": "Mes documents importés sont-ils stockés en sécurité pendant la traduction ?",
+    "a": "<p>Oui. Lorsque vous traduisez un document, vos fichiers bénéficient des mêmes protections que le reste de la plateforme : <strong>chiffrement SSL/TLS</strong> en transit, <strong>AES-256</strong> au repos, <strong>hébergement en Europe</strong> et conformité <strong>RGPD</strong>. Les formats acceptés sont .txt, .docx, .xlsx, .pptx et .pdf, pour une taille totale de 50 Mo maximum.</p><p>Vos documents traduits sont ensuite conservés selon la <strong>période de rétention</strong> que vous avez définie dans votre profil, puis supprimés automatiquement. Pour en savoir plus sur la traduction de documents, voir la page <a href=\"/lexa-document-traduction-juridique/\">Traduction de documents</a>.</p>"
+   },
+   {
+    "q": "Qui contacter pour une question de sécurité ou de confidentialité ?",
+    "a": "<p>Pour toute question d'utilisation ou demande liée à la sécurité, à la confidentialité ou à vos données personnelles :</p><ul><li>Écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</li><li>Ou cliquez sur l'icône <strong>Support</strong> (casque) dans la barre latérale du portail.</li></ul><p>Pour les questions commerciales ou une démonstration, contactez l'équipe commerciale à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou au +33 1 84 80 21 20. Vous pouvez aussi consulter la page <a href=\"/contact/\">Contact</a>.</p>"
+   }
+  ],
+  "key": "securite-confidentialite",
+  "title": "Securite et confidentialite"
+ },
+ {
+  "intro": "<p>La page <strong>« Mon Équipe »</strong> vous permet, en tant qu'administrateur, de piloter votre abonnement à plusieurs : voir qui utilise Lexa, suivre la consommation de chacun, attribuer les rôles et garder la main sur les licences. Voici comment gérer votre équipe au quotidien, étape par étape.</p>",
+  "items": [
+   {
+    "q": "Comment accéder à la page « Mon Équipe » ?",
+    "a": "<p>La gestion d'équipe se trouve dans votre tableau de bord, dans les <strong>Actions rapides</strong>.</p><ol><li>Connectez-vous sur <strong>portail.lexamt.fr</strong>.</li><li>Sur la page <strong>Accueil</strong> (tableau de bord), repérez le bloc <strong>Actions rapides</strong>.</li><li>Cliquez sur <strong>« Gérer mon équipe »</strong>.</li></ol><p>Vous arrivez sur la page <strong>« Mon Équipe »</strong>, avec le nombre d'utilisateurs et d'utilisateurs actifs, ainsi que le tableau de votre équipe. Cette page est réservée aux comptes disposant du rôle <strong>Administrateur</strong>.</p>"
+   },
+   {
+    "q": "Que contient le tableau de mon équipe ?",
+    "a": "<p>Le tableau récapitule, pour chaque membre, les informations utiles au pilotage :</p><ul><li><strong>Utilisateur</strong> : le membre concerné (nom et e-mail).</li><li><strong>Licence</strong> : la licence attribuée, avec une <strong>barre d'usage</strong> qui montre d'un coup d'œil la part du quota déjà consommée.</li><li><strong>Usage</strong> : le détail de la consommation de cet utilisateur.</li><li><strong>Rôle</strong> : <strong>Utilisateur</strong> ou <strong>Administrateur</strong>.</li><li><strong>Actions</strong> : pour <strong>modifier</strong> le membre.</li></ul><p>En haut de la page, vous retrouvez aussi le <strong>nombre d'utilisateurs</strong> et le <strong>nombre d'utilisateurs actifs</strong>.</p>"
+   },
+   {
+    "q": "Comment modifier l'e-mail d'un utilisateur ?",
+    "a": "<p>Vous pouvez corriger ou mettre à jour l'adresse e-mail d'un membre depuis le tableau.</p><ol><li>Ouvrez la page <strong>« Mon Équipe »</strong> (Accueil, puis <strong>Actions rapides</strong>, puis <strong>« Gérer mon équipe »</strong>).</li><li>Sur la ligne du membre concerné, dans la colonne <strong>Actions</strong>, ouvrez <strong>« Modifier l'utilisateur »</strong>.</li><li>Saisissez la nouvelle adresse dans le champ <strong>e-mail</strong>.</li><li>Enregistrez vos modifications.</li></ol><p>Si l'adresse e-mail comporte une erreur de saisie, c'est ici que vous la corrigez.</p>"
+   },
+   {
+    "q": "Comment donner (ou retirer) le rôle Administrateur à un membre ?",
+    "a": "<p>Le rôle se gère depuis l'écran <strong>« Modifier l'utilisateur »</strong>.</p><ol><li>Sur la page <strong>« Mon Équipe »</strong>, repérez la ligne du membre.</li><li>Dans la colonne <strong>Actions</strong>, ouvrez <strong>« Modifier l'utilisateur »</strong>.</li><li>Cochez la case <strong>« Administrateur »</strong> pour lui accorder ce rôle, ou décochez-la pour le repasser en simple <strong>Utilisateur</strong>.</li><li>Enregistrez.</li></ol><p>Pensez à toujours conserver au moins un <strong>Administrateur</strong> dans l'équipe pour pouvoir continuer à gérer les rôles et les licences.</p>"
+   },
+   {
+    "q": "Quelle est la différence entre les rôles Utilisateur et Administrateur ?",
+    "a": "<p>Lexa propose deux rôles, pensés pour rester simples :</p><ul><li><strong>Utilisateur</strong> : accède à Lexa pour son propre travail (Traduction, Lexiques, Historique, Personnaliser, etc.) et gère son profil.</li><li><strong>Administrateur</strong> : dispose en plus de la page <strong>« Mon Équipe »</strong> pour suivre l'usage de l'équipe, modifier les membres, changer un e-mail et attribuer les rôles.</li></ul><p>Vous pouvez avoir plusieurs administrateurs : c'est recommandé pour ne jamais être bloqué en cas d'absence.</p>"
+   },
+   {
+    "q": "Comment suivre l'usage de chaque utilisateur ?",
+    "a": "<p>Le suivi par membre se lit directement dans le tableau d'équipe.</p><ol><li>Ouvrez la page <strong>« Mon Équipe »</strong>.</li><li>Dans la colonne <strong>Licence</strong>, lisez la <strong>barre d'usage</strong> de chaque membre : elle indique la part du quota déjà utilisée.</li><li>Consultez la colonne <strong>Usage</strong> pour le détail de la consommation de l'utilisateur.</li></ol><p>Pour votre propre consommation, le <strong>tableau de bord</strong> (Accueil) affiche aussi vos statistiques : caractères, mots et documents traduits, glossaires ajoutés, exprimés en pourcentage du quota.</p>"
+   },
+   {
+    "q": "Comment savoir combien de sièges sont utilisés et combien il en reste ?",
+    "a": "<p>L'indicateur se trouve en haut de la page d'équipe.</p><ol><li>Ouvrez la page <strong>« Mon Équipe »</strong>.</li><li>En haut, comparez le <strong>nombre d'utilisateurs</strong> au <strong>nombre d'utilisateurs actifs</strong>.</li><li>Repérez les membres dont la <strong>barre d'usage</strong> est proche de la limite pour anticiper les besoins.</li></ol><p>Si vous approchez de la limite de votre formule, vous pourrez ajuster votre abonnement (voir la question sur l'ajout de sièges).</p>"
+   },
+   {
+    "q": "Comment ajouter des sièges au-delà de mon quota ?",
+    "a": "<p>L'ajout de sièges supplémentaires se fait au niveau de votre <strong>abonnement</strong>. Pour les équipes, le plan <strong>Enterprise</strong> est conçu sur mesure, <strong>dès 25 utilisateurs</strong>.</p><ol><li>Évaluez le nombre de sièges dont vous avez besoin sur la page <strong>« Mon Équipe »</strong>.</li><li>Consultez nos formules sur la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a> (Essentiel, Standard, Premium, Enterprise, avec -10% en annuel).</li><li>Contactez notre <strong>équipe commerciale</strong> pour le plan Enterprise et l'ajout de sièges : <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou <strong>+33 1 84 80 21 20</strong>.</li></ol><p>Notre équipe vous accompagne pour dimensionner votre abonnement au plus juste.</p>"
+   },
+   {
+    "q": "Un nouveau collaborateur n'apparaît pas dans le tableau, que faire ?",
+    "a": "<p>Procédez par vérifications simples avant de nous contacter.</p><ol><li>Vérifiez sur la page <strong>« Mon Équipe »</strong> que l'<strong>e-mail</strong> du collaborateur est correct (colonne <strong>Actions</strong>, puis <strong>« Modifier l'utilisateur »</strong>).</li><li>Assurez-vous qu'il reste des <strong>sièges disponibles</strong> dans votre abonnement (comparez le nombre d'utilisateurs au quota de votre formule).</li><li>Demandez au collaborateur de se connecter au moins une fois sur <strong>portail.lexamt.fr</strong> : il sera alors comptabilisé comme <strong>utilisateur actif</strong>.</li></ol><p>Si le problème persiste, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> ou cliquez sur l'icône <strong>Support</strong> dans la barre latérale du portail.</p>"
+   },
+   {
+    "q": "Comment chaque membre suit-il sa propre consommation ?",
+    "a": "<p>Chaque utilisateur dispose de son propre suivi, sans avoir besoin du rôle Administrateur.</p><ol><li>Le membre se connecte sur <strong>portail.lexamt.fr</strong>.</li><li>Sur la page <strong>Accueil</strong> (tableau de bord), il consulte ses <strong>statistiques d'usage</strong> : caractères traduits, mots traduits, documents traduits et glossaires ajoutés, en pourcentage du quota.</li><li>Il retrouve aussi ses <strong>Traductions récentes</strong> juste en dessous.</li></ol><p>Côté administrateur, ces consommations se retrouvent de façon consolidée dans le tableau de la page <strong>« Mon Équipe »</strong>.</p>"
+   },
+   {
+    "q": "Comment chaque membre gère-t-il son compte et la confidentialité de ses traductions ?",
+    "a": "<p>Chaque utilisateur garde la main sur son propre profil, indépendamment des rôles.</p><ol><li>Cliquez sur l'<strong>avatar</strong> (menu profil) en haut du portail, puis ouvrez le <strong>« Détail du profil »</strong>.</li><li>Dans l'onglet <strong>« Information »</strong> : modifiez prénom, nom, langue de l'interface et e-mail, puis cliquez sur <strong>« Mettre à jour les informations »</strong>.</li><li>Dans l'onglet <strong>« Sécurité »</strong> : utilisez <strong>« Modifier le mot de passe »</strong> et réglez la <strong>« Période de rétention »</strong>, c'est-à-dire la durée de conservation de vos traductions avant suppression automatique (par exemple 1 an).</li></ol><p>Pour en savoir plus sur la protection des données, consultez notre page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a> (chiffrement SSL/TLS et AES-256, hébergement en Europe, RGPD).</p>"
+   },
+   {
+    "q": "À qui m'adresser pour une question sur mon équipe ou mon abonnement ?",
+    "a": "<p>Selon votre besoin, deux contacts sont à votre disposition :</p><ul><li>Pour une <strong>aide à l'utilisation</strong> de la page « Mon Équipe » ou du portail : écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>, ou cliquez sur l'icône <strong>Support</strong> dans la barre latérale.</li><li>Pour une <strong>question commerciale</strong>, ajouter des sièges ou passer au plan Enterprise (dès 25 utilisateurs) : contactez l'équipe commerciale à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou au <strong>+33 1 84 80 21 20</strong>.</li></ul><p>Vous pouvez aussi comparer les formules sur la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a>.</p>"
+   }
+  ],
+  "key": "gestion-equipe-licences",
+  "title": "Gestion d'equipe, licences et utilisateurs"
+ },
+ {
+  "intro": "<p>Tout ce qu'il faut savoir sur les abonnements Lexa : les plans, l'essai gratuit, la facturation et le changement de formule. Pour souscrire ou comparer les offres en détail, rendez-vous sur la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a>. Une question précise sur votre compte ? Notre équipe répond à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>",
+  "items": [
+   {
+    "q": "Quels sont les plans Lexa et leurs prix ?",
+    "a": "<p>Lexa propose quatre formules, pensées pour s'adapter à votre volume de traduction juridique :</p><ul><li><strong>Essentiel</strong> : 6,90 EUR/mois</li><li><strong>Standard</strong> : 23,90 EUR/mois</li><li><strong>Premium</strong> : 44,90 EUR/mois</li><li><strong>Enterprise</strong> : sur mesure, dès 25 utilisateurs</li></ul><p>Le module <strong>Lexa Word</strong> est disponible séparément à 4,90 EUR/mois. Un engagement annuel vous fait bénéficier de <strong>-10%</strong> sur votre abonnement. Pour comparer en détail ce qu'inclut chaque plan, consultez la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a>.</p>"
+   },
+   {
+    "q": "Comment démarrer l'essai gratuit de 15 jours ?",
+    "a": "<p>L'essai gratuit dure <strong>15 jours, sans carte bancaire</strong>. Pour le lancer :</p><ol><li>Rendez-vous sur la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a> de lexamt.com.</li><li>Sélectionnez l'offre qui vous intéresse et créez votre compte.</li><li>Accédez au portail (portail.lexamt.fr) et commencez à traduire depuis l'onglet <strong>Traduction</strong>.</li></ol><p>Aucun moyen de paiement ne vous est demandé pendant l'essai. Vous testez Lexa en conditions réelles, en toute autonomie.</p>"
+   },
+   {
+    "q": "Comment changer d'abonnement depuis le portail ?",
+    "a": "<p>Le <strong>sélecteur d'abonnement</strong> se trouve en haut du portail :</p><ol><li>Connectez-vous à votre espace sur portail.lexamt.fr.</li><li>Repérez le <strong>sélecteur d'abonnement</strong>, en haut de l'écran.</li><li>Consultez les formules disponibles et choisissez celle qui correspond à vos besoins.</li></ol><p>Selon le type de compte, la mise à jour peut se finaliser avec notre équipe. En cas de doute, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> et nous vous accompagnons dans le changement.</p>"
+   },
+   {
+    "q": "Comment fonctionne la facturation pour une organisation ou un compte Enterprise ?",
+    "a": "<p>Pour une organisation ou un compte <strong>Enterprise</strong>, la facturation se gère au niveau de l'abonnement, avec notre équipe commerciale. C'est elle qui définit le périmètre, le nombre d'utilisateurs et les conditions adaptées à votre structure.</p><ol><li>Contactez l'équipe commerciale à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou au <strong>+33 1 84 80 21 20</strong>.</li><li>Précisez votre nombre d'utilisateurs (Enterprise est accessible dès 25 utilisateurs) et vos besoins.</li><li>Vous recevez une proposition sur mesure et la facturation est mise en place avec vous.</li></ol>"
+   },
+   {
+    "q": "Quelle est la différence entre l'abonnement annuel et mensuel ?",
+    "a": "<p>Vous pouvez régler votre abonnement au mois ou à l'année. L'<strong>engagement annuel</strong> vous fait bénéficier d'une remise de <strong>-10%</strong> sur le tarif de votre plan.</p><p>Cette remise s'applique aux formules Essentiel, Standard et Premium. Pour visualiser le tarif annuel de chaque offre, rendez-vous sur la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a>.</p>"
+   },
+   {
+    "q": "Qu'est-ce que Lexa Word et comment l'ajouter ?",
+    "a": "<p><strong>Lexa Word</strong> est le module qui vous permet de traduire directement dans Microsoft Word, à <strong>4,90 EUR/mois</strong>. Il se souscrit en complément de votre abonnement.</p><ol><li>Consultez la page produit <a href=\"/lexa-word-add-on-microsoft-word/\">Lexa Word</a> pour découvrir le module.</li><li>Pour l'ajouter à votre compte, contactez l'équipe à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou via l'icône <strong>Support</strong> du portail.</li></ol><p>Notre équipe vous indique la marche à suivre selon votre type de compte.</p>"
+   },
+   {
+    "q": "L'essai gratuit demande-t-il une carte bancaire ?",
+    "a": "<p>Non. L'essai gratuit de <strong>15 jours</strong> ne requiert <strong>aucune carte bancaire</strong>. Vous accédez à Lexa et le testez librement, sans risque de prélèvement automatique à la fin de la période.</p><p>Si vous souhaitez poursuivre au-delà des 15 jours, vous choisissez alors la formule qui vous convient depuis la page <a href=\"/lexa-tarifs-traduction-juridique/\">Tarifs</a>.</p>"
+   },
+   {
+    "q": "Quel plan choisir selon mon usage ?",
+    "a": "<p>Le bon plan dépend de votre volume et de la taille de votre équipe :</p><ul><li><strong>Essentiel</strong> (6,90 EUR/mois) : pour un usage ponctuel et individuel.</li><li><strong>Standard</strong> (23,90 EUR/mois) : pour un usage régulier.</li><li><strong>Premium</strong> (44,90 EUR/mois) : pour un usage intensif.</li><li><strong>Enterprise</strong> (sur mesure, dès 25 utilisateurs) : pour une organisation avec gestion d'équipe.</li></ul><p>Le mieux reste de tester pendant l'<strong>essai gratuit de 15 jours</strong>, puis d'ajuster. Pour un conseil personnalisé, écrivez à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Mon abonnement donne-t-il accès à toutes les fonctionnalités de traduction ?",
+    "a": "<p>Oui. Tous les plans vous donnent accès au cœur de Lexa : traduction de <strong>texte</strong> et de <strong>documents</strong>, <strong>glossaires</strong>, sélection du <strong>domaine juridique</strong>, <strong>historique</strong> et outils de la rubrique <strong>Personnaliser</strong>. Lexa couvre <strong>40+ langues</strong> et 900+ lexiques officiels.</p><p>Les différences entre formules portent sur les volumes et le nombre de fichiers. Pour découvrir les fonctionnalités en détail, consultez la page <a href=\"/fonctionnalites/\">Fonctionnalités</a>.</p>"
+   },
+   {
+    "q": "Comment demander une démonstration avant de m'abonner ?",
+    "a": "<p>Pour une démonstration personnalisée, notamment en vue d'un déploiement en équipe ou d'un compte Enterprise :</p><ol><li>Écrivez à <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou appelez le <strong>+33 1 84 80 21 20</strong>.</li><li>Indiquez votre contexte (cabinet, direction juridique, nombre d'utilisateurs).</li><li>Un membre de l'équipe organise une présentation adaptée à vos besoins.</li></ol><p>Vous pouvez aussi commencer en autonomie avec l'<strong>essai gratuit de 15 jours, sans carte bancaire</strong>.</p>"
+   },
+   {
+    "q": "Où trouver une facture ou poser une question sur mon paiement ?",
+    "a": "<p>La facturation dépend de votre type de compte. Pour toute question liée à une facture ou à un paiement :</p><ol><li>Pour un compte individuel, contactez le support à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> (icône <strong>Support</strong> dans le portail).</li><li>Pour une organisation ou un compte Enterprise, la facturation se gère au niveau de l'abonnement avec l'équipe commerciale : <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou <strong>+33 1 84 80 21 20</strong>.</li></ol><p>Nous vous transmettons les éléments nécessaires selon votre situation.</p>"
+   },
+   {
+    "q": "Que deviennent mes données et leur sécurité avec mon abonnement ?",
+    "a": "<p>Quel que soit votre plan, vos documents bénéficient du même niveau de protection : chiffrement <strong>SSL/TLS et AES-256</strong>, hébergement en <strong>Europe</strong>, conformité <strong>RGPD</strong>, et <strong>aucune donnée client utilisée pour l'entraînement</strong>. Lexa est certifié <strong>ISO 27001</strong>, <strong>AICPA SOC</strong> et <strong>STAR Cloud Security Alliance</strong>.</p><p>Vous gérez votre <strong>période de rétention</strong> depuis l'onglet <strong>Sécurité</strong> de votre profil. Pour en savoir plus, consultez la page <a href=\"/securite-confidentialite-traduction-juridique/\">Sécurité et confidentialité</a>.</p>"
+   }
+  ],
+  "key": "abonnements-facturation",
+  "title": "Abonnements et facturation"
+ },
+ {
+  "intro": "<p>Voici comment gérer votre compte Lexa au quotidien : modifier votre profil, sécuriser votre mot de passe, régler la rétention de vos données, et résoudre les blocages courants (connexion, import de document). Toutes les étapes ci-dessous suivent les écrans réels du portail <strong>portail.lexamt.fr</strong>. En cas de doute, notre équipe répond à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>",
+  "items": [
+   {
+    "q": "Comment modifier mon prénom, mon nom ou mon adresse e-mail ?",
+    "a": "<p>Vos informations personnelles se gèrent depuis la page <strong>Détail du profil</strong>, onglet <strong>Information</strong>.</p><ol><li>Ouvrez le <strong>menu profil</strong> en haut à droite du portail, puis accédez à <strong>Détail du profil</strong>.</li><li>Placez-vous sur l'onglet <strong>Information</strong>.</li><li>Modifiez les champs souhaités : <strong>prénom</strong>, <strong>nom</strong> ou <strong>e-mail</strong>.</li><li>Cliquez sur <strong>Mettre à jour les informations</strong> pour enregistrer.</li></ol><p>Vos changements sont pris en compte immédiatement. Si l'adresse e-mail est liée à votre connexion, utilisez bien la nouvelle adresse lors de votre prochaine ouverture de session.</p>"
+   },
+   {
+    "q": "Comment changer la langue de l'interface (français ou anglais) ?",
+    "a": "<p>L'interface Lexa est disponible en français et en anglais. Deux possibilités selon l'écran où vous vous trouvez.</p><ol><li>En haut du portail, repérez le sélecteur de <strong>langue d'interface</strong> et choisissez <strong>FR</strong> ou <strong>EN</strong>.</li><li>Vous pouvez aussi passer par le <strong>menu profil</strong>, puis <strong>Détail du profil</strong>, onglet <strong>Information</strong>, et régler la <strong>langue d'interface</strong>.</li><li>Si vous l'avez modifiée depuis le profil, cliquez sur <strong>Mettre à jour les informations</strong> pour enregistrer.</li></ol><p>Ce réglage ne concerne que l'affichage du portail : il est indépendant des langues source et cible de vos traductions.</p>"
+   },
+   {
+    "q": "Comment modifier mon mot de passe ?",
+    "a": "<p>Le mot de passe se change depuis la page <strong>Détail du profil</strong>, onglet <strong>Sécurité</strong>.</p><ol><li>Ouvrez le <strong>menu profil</strong> en haut à droite, puis <strong>Détail du profil</strong>.</li><li>Cliquez sur l'onglet <strong>Sécurité</strong>.</li><li>Cliquez sur <strong>Modifier le mot de passe</strong>.</li><li>Saisissez votre nouveau mot de passe, confirmez-le, puis validez.</li></ol><p>Choisissez un mot de passe long et unique. Pour mémoire, vos données transitent et sont stockées avec un chiffrement <strong>SSL/TLS</strong> et <strong>AES-256</strong>.</p>"
+   },
+   {
+    "q": "À quoi sert la période de rétention et comment la régler ?",
+    "a": "<p>La <strong>période de rétention</strong> détermine la durée pendant laquelle vos documents et traductions sont conservés avant suppression automatique. Elle se règle dans l'onglet <strong>Sécurité</strong> de votre profil.</p><ol><li>Ouvrez le <strong>menu profil</strong>, puis <strong>Détail du profil</strong>.</li><li>Allez dans l'onglet <strong>Sécurité</strong>.</li><li>Repérez le réglage <strong>Période de rétention</strong> et sélectionnez la durée voulue (par exemple, 1 an).</li><li>Enregistrez votre choix.</li></ol><p>Vos données sont hébergées en <strong>Europe</strong>, dans le respect du <strong>RGPD</strong>, et ne sont jamais utilisées pour entraîner nos modèles. Pour en savoir plus, consultez notre page <a href=\"/securite-confidentialite-traduction-juridique/\">sécurité et confidentialité</a>.</p>"
+   },
+   {
+    "q": "Comment supprimer mes données ?",
+    "a": "<p>Vous pouvez demander la suppression de vos données directement depuis votre compte.</p><ol><li>Ouvrez le <strong>menu profil</strong>, puis <strong>Détail du profil</strong>.</li><li>Allez dans l'onglet <strong>Sécurité</strong>.</li><li>Cliquez sur <strong>Supprimer vos données</strong>.</li><li>Confirmez l'opération lorsque le portail vous le demande.</li></ol><p><strong>Attention :</strong> cette action est définitive et concerne notamment vos traductions et documents. Pour ne supprimer qu'une traduction précise, utilisez plutôt l'icône de suppression dans l'<a href=\"/aide/historique/\">Historique</a>. En cas de doute, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>.</p>"
+   },
+   {
+    "q": "Comment me déconnecter de mon compte ?",
+    "a": "<p>La déconnexion se fait en quelques secondes depuis votre profil.</p><ol><li>Ouvrez le <strong>menu profil</strong> en haut à droite, puis <strong>Détail du profil</strong>.</li><li>Allez dans l'onglet <strong>Sécurité</strong>.</li><li>Cliquez sur <strong>Déconnexion</strong>.</li></ol><p>Pensez à vous déconnecter si vous utilisez un poste partagé, afin de protéger l'accès à vos documents.</p>"
+   },
+   {
+    "q": "Je n'arrive pas à me connecter, que faire ?",
+    "a": "<p>La plupart des blocages de connexion se règlent en quelques vérifications.</p><ol><li>Vérifiez que vous utilisez la bonne <strong>adresse e-mail</strong>, en particulier si vous l'avez changée récemment dans votre profil.</li><li>Contrôlez votre mot de passe (attention aux majuscules et à la disposition du clavier).</li><li>Essayez un autre navigateur récent, ou videz le cache, puis rechargez le portail <strong>portail.lexamt.fr</strong>.</li><li>Désactivez temporairement une extension ou un VPN qui pourrait bloquer la session.</li></ol><p>Si le problème persiste, contactez <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a> en précisant l'adresse e-mail de votre compte et le message d'erreur affiché.</p>"
+   },
+   {
+    "q": "L'import de mon document échoue, comment le résoudre ?",
+    "a": "<p>Un import qui échoue vient le plus souvent du format ou de la taille du fichier.</p><ol><li>Vérifiez que votre fichier est dans un format pris en charge : <strong>.txt</strong>, <strong>.docx</strong>, <strong>.xlsx</strong>, <strong>.pptx</strong> ou <strong>.pdf</strong>.</li><li>Assurez-vous que la <strong>taille totale</strong> ne dépasse pas <strong>50 Mo</strong>.</li><li>Dans <strong>Traduction</strong>, onglet <strong>Traduire un document</strong>, étape 1 (<strong>Document</strong>), glissez-déposez le fichier ou cliquez sur <strong>Importer document(s)</strong>.</li><li>Fermez le fichier dans une autre application avant de l'importer, et réessayez si besoin avec une connexion stable.</li></ol><p>Si l'import bloque toujours, écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>. Détails sur l'outil : <a href=\"/lexa-document-traduction-juridique/\">traduire un document avec Lexa</a>.</p>"
+   },
+   {
+    "q": "Mon glossaire (lexique) ne s'importe pas, pourquoi ?",
+    "a": "<p>Les glossaires obéissent à des contraintes propres, différentes de celles des documents.</p><ol><li>Ouvrez la page <strong>Lexiques</strong> (Glossaires), puis cliquez sur <strong>Ajouter un glossaire</strong>.</li><li>Vérifiez le format : <strong>.csv</strong> ou <strong>.xlsx</strong> uniquement.</li><li>Contrôlez la taille : <strong>5 Mo</strong> maximum.</li><li>En cas de structure incorrecte, partez du fichier <strong>Télécharger un modèle</strong> et recopiez vos termes dedans.</li></ol><p>Une fois importé, le glossaire s'applique à l'étape <strong>Domaine et Glossaire</strong> de la traduction d'un document. Plus de détails dans le <a href=\"/glossaire-traduction-juridique/\">guide des glossaires</a>.</p>"
+   },
+   {
+    "q": "Comment contacter le support technique de Lexa ?",
+    "a": "<p>Pour toute question technique ou problème sur le portail, une seule adresse.</p><ul><li>Écrivez à <a href=\"mailto:support@lexamt.com\">support@lexamt.com</a>, ou cliquez sur l'icône <strong>Support</strong> en bas de la barre latérale du portail.</li><li>Précisez l'adresse e-mail de votre compte, l'écran concerné et, si possible, une capture du message d'erreur.</li></ul><p>Pour une demande commerciale ou une démonstration, contactez plutôt <a href=\"mailto:contact@lexamt.com\">contact@lexamt.com</a> ou le <strong>+33 1 84 80 21 20</strong>. Vous pouvez aussi passer par notre page <a href=\"/contact/\">contact</a>.</p>"
+   },
+   {
+    "q": "Puis-je tester Lexa avant de m'abonner ?",
+    "a": "<p>Oui. Lexa propose un <strong>essai de 15 jours sans carte bancaire</strong>, pour évaluer la solution dans vos conditions réelles.</p><ul><li>Vous accédez à la traduction de texte et de documents, aux lexiques et à la personnalisation.</li><li>Aucun engagement : l'essai s'arrête de lui-même si vous ne souscrivez pas.</li></ul><p>Pour comparer les offres (Essentiel à 6,90 EUR/mois, Standard à 23,90 EUR/mois, Premium à 44,90 EUR/mois, Enterprise sur mesure, avec -10% sur l'abonnement annuel), consultez la page <a href=\"/lexa-tarifs-traduction-juridique/\">tarifs</a>.</p>"
+   },
+   {
+    "q": "Mes données sont-elles protégées et confidentielles ?",
+    "a": "<p>Oui, la confidentialité de vos documents est au cœur de Lexa.</p><ul><li>Chiffrement <strong>SSL/TLS</strong> en transit et <strong>AES-256</strong> au repos.</li><li>Hébergement en <strong>Europe</strong>, conforme au <strong>RGPD</strong>.</li><li><strong>Aucune donnée client</strong> n'est utilisée pour l'entraînement des modèles.</li><li>Certifications <strong>ISO 27001</strong>, <strong>AICPA SOC</strong> et <strong>STAR Cloud Security Alliance</strong>.</li></ul><p>Vous gardez la maîtrise de la conservation grâce à la <strong>Période de rétention</strong> et à <strong>Supprimer vos données</strong> dans l'onglet Sécurité. Tous les détails sur notre page <a href=\"/securite-confidentialite-traduction-juridique/\">sécurité et confidentialité</a>.</p>"
+   }
+  ],
+  "key": "compte-parametres",
+  "title": "Compte, parametres et depannage"
+ }
+]

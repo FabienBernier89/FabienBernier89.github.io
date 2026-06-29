@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Lexa">
+  <defs>
+    <linearGradient id="lexaBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b5630"/>
+      <stop offset="1" stop-color="#063b1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="7.5" fill="url(#lexaBg)"/>
+  <path d="M12 8.2 V20.6 H19.4" fill="none" stroke="#ffffff" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="23.4" cy="20.6" r="2.5" fill="#38a06e"/>
+</svg>
